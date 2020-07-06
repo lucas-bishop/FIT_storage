@@ -1,8 +1,7 @@
 library(tidyverse)
 library(readxl)
 
-# for error code in FIT DATA file, make a note
-# for measurment column in readings file, make temperature and time label
+
 # output csv file with samples that need to be redone, box, location, time, temp., dilution?
 
 
