@@ -1,0 +1,8804 @@
+#1.43.0
+3160
+6
+Root
+0	-1
+unknown
+1	0
+Archaea
+1	0
+Aenigmarchaeota
+2	2
+Candidatus_Aenigmarchaeum
+3	3
+Diapherotrites
+2	2
+Candidatus_Iainarchaeum
+3	5
+Bacteria
+1	0
+Proteobacteria
+2	7
+Gammaproteobacteria
+3	8
+Gammaproteobacteria_incertae_sedis
+4	9
+Congregibacter
+5	10
+"Proteobacteria"
+2	7
+Alphaproteobacteria
+3	12
+Rickettsiales
+4	13
+Mitochondria
+5	14
+Mitochondria_genus_incertae_sedis
+6	15
+Vibrionales
+4	9
+Vibrionaceae
+5	17
+Vibrio
+6	18
+Cyanobacteria/Chloroplast
+2	7
+Chloroplast
+3	20
+Chloroplast
+4	21
+Chlorophyta
+5	22
+Firmicutes
+2	7
+Bacilli
+3	24
+Lactobacillales
+4	25
+Streptococcaceae
+5	26
+Streptococcus
+6	27
+Bangiophyceae
+5	22
+Alteromonadales
+4	9
+Colwelliaceae
+5	30
+Colwellia
+6	31
+Cyanobacteria
+3	20
+Family_V
+4	33
+GpV
+5	34
+Family_X
+4	33
+GpX
+5	36
+Family_VI
+4	33
+GpVI
+5	38
+Family_IX
+4	33
+GpIX
+5	40
+Family_IV
+4	33
+GpIV
+5	42
+Negativicutes
+3	24
+Selenomonadales
+4	44
+Veillonellaceae
+5	45
+Selenomonas
+6	46
+Betaproteobacteria
+3	8
+Burkholderiales
+4	48
+Comamonadaceae
+5	49
+Roseateles
+6	50
+Actinobacteria
+2	7
+Actinobacteria
+3	52
+Actinomycetales
+4	53
+Kineosporiaceae
+5	54
+Kineosporia
+6	55
+Microbacteriaceae
+5	54
+Microbacterium
+6	57
+Nocardiaceae
+5	54
+Gordonia
+6	59
+Corynebacteriaceae
+5	54
+Corynebacterium
+6	61
+Enterobacteriales
+4	9
+Enterobacteriaceae
+5	63
+Enterobacter
+6	64
+Pluralibacter
+6	64
+Lelliottia
+6	64
+Serratia
+6	64
+Euryarchaeota
+2	2
+Halobacteria
+3	69
+Halobacteriales
+4	70
+Halobacteriaceae
+5	71
+Halococcus
+6	72
+Natrialbales
+4	70
+Natrialbaceae
+5	74
+Haloterrigena
+6	75
+Crenarchaeota
+2	2
+Thermoprotei
+3	77
+Thermoproteales
+4	78
+Thermoproteaceae
+5	79
+Thermocladium
+6	80
+Natronorubrum
+6	75
+Lactobacillaceae
+5	26
+Lactobacillus
+6	83
+Streptosporangiaceae
+5	54
+Nonomuraea
+6	85
+Streptomycetaceae
+5	54
+Streptomyces
+6	87
+Sporichthyaceae
+5	54
+Sporichthya
+6	89
+Micromonosporaceae
+5	54
+Virgisporangium
+6	91
+Acrocarpospora
+6	85
+Pseudonocardiaceae
+5	54
+Lentzea
+6	94
+Thermomonosporaceae
+5	54
+Actinocorallia
+6	96
+Actinoalloteichus
+6	94
+Bifidobacteriales
+4	53
+Bifidobacteriaceae
+5	99
+Bifidobacterium
+6	100
+Alphaproteobacteria
+3	8
+Rhodospirillales
+4	102
+Acetobacteraceae
+5	103
+Acidiphilium
+6	104
+Oceanospirillales
+4	9
+Oceanospirillaceae
+5	106
+Oceanospirillum
+6	107
+Marinobacterium
+6	107
+Pseudospirillum
+6	107
+Oceanobacter
+6	107
+Rhizobiales
+4	102
+Methylocystaceae
+5	112
+Terasakiella
+6	113
+Marinospirillum
+6	107
+Burkholderiales_incertae_sedis
+5	49
+Mitsuaria
+6	116
+Rhodobacterales
+4	102
+Rhodobacteraceae
+5	118
+Paracoccus
+6	119
+Oxalobacteraceae
+5	49
+Oxalicibacterium
+6	121
+Xanthomonadales
+4	9
+Xanthomonadaceae
+5	123
+Pseudoxanthomonas
+6	124
+Clostridia
+3	24
+Clostridiales
+4	126
+Lachnospiraceae
+5	127
+Moritellaceae
+5	30
+Moritella
+6	129
+Caldimonas
+6	50
+Methanomicrobia
+3	69
+Methanomicrobiales
+4	132
+Methanomicrobiales_incertae_sedis
+5	133
+Methanocalculus
+6	134
+Pseudomonadales
+4	9
+Pseudomonadaceae
+5	136
+Pseudomonas
+6	137
+Pyrobaculum
+6	80
+Hydrogenophilales
+4	48
+Hydrogenophilaceae
+5	140
+Hydrogenophilus
+6	141
+Bacillales
+4	25
+Staphylococcaceae
+5	143
+Staphylococcus
+6	144
+Alcaligenaceae
+5	49
+Achromobacter
+6	146
+Bacillaceae_2
+5	143
+Oceanobacillus
+6	148
+Williamsia
+6	59
+Sulfolobales
+4	78
+Sulfolobaceae
+5	151
+Sulfolobus
+6	152
+Haloarcula
+6	72
+Ruminococcaceae
+5	127
+Clostridium_III
+6	155
+Clostridiales_Incertae_Sedis_XVII
+5	127
+Thermaerobacter
+6	157
+Coriobacteriales
+4	53
+Coriobacteriaceae
+5	159
+Collinsella
+6	160
+Enterococcaceae
+5	26
+Enterococcus
+6	162
+Zimmermannella
+6	57
+Leucobacter
+6	57
+Propionibacteriaceae
+5	54
+Micropruina
+6	166
+Mycetocola
+6	57
+Acidobacteria
+2	7
+Acidobacteria_Gp23
+3	169
+Gp23
+4	170
+Hydrogenedentes
+2	7
+Candidatus_Hydrogenedens
+3	172
+Actinoplanes
+6	91
+Caldivirga
+6	80
+SR1
+2	7
+Parcubacteria
+2	7
+Moraxellaceae
+5	136
+Psychrobacter
+6	178
+Deltaproteobacteria
+3	8
+Myxococcales
+4	180
+Haliangiaceae
+5	181
+Haliangium
+6	182
+Photobacterium
+6	18
+Leifsonia
+6	57
+Chromatiales
+4	9
+Chromatiaceae
+5	186
+Thiorhodovibrio
+6	187
+Hyphomicrobiaceae
+5	112
+Prosthecomicrobium
+6	189
+Microbispora
+6	85
+Clostridiaceae_1
+5	127
+Clostridium_sensu_stricto
+6	192
+Eubacteriaceae
+5	127
+Eubacterium
+6	194
+Sphingomonadales
+4	102
+Sphingomonadaceae
+5	196
+Sphingomonas
+6	197
+Thermococci
+3	69
+Thermococcales
+4	199
+Thermococcaceae
+5	200
+Palaeococcus
+6	201
+Cryptobacterium
+6	160
+Aeromonadales
+4	9
+Aeromonadaceae
+5	204
+Oceanimonas
+6	205
+Lysobacter
+6	124
+Umezawaea
+6	94
+Thermoanaerobacterales
+4	126
+Thermoanaerobacteraceae
+5	209
+Thermacetogenium
+6	210
+Bacteroidetes
+2	7
+Bacteroidia
+3	212
+Bacteroidales
+4	213
+Bacteroidaceae
+5	214
+Bacteroides
+6	215
+Bacillaceae_1
+5	143
+Bacillus
+6	217
+Salimicrobium
+6	148
+Pullulanibacillus
+6	148
+Geobacillus
+6	217
+Nitrospirae
+2	7
+Nitrospira
+3	222
+Nitrospirales
+4	223
+Nitrospiraceae
+5	224
+Thermodesulfovibrio
+6	225
+Syntrophomonadaceae
+5	127
+Syntrophothermus
+6	227
+Herbaspirillum
+6	121
+Rhodocyclales
+4	48
+Rhodocyclaceae
+5	230
+Thauera
+6	231
+Neisseriales
+4	48
+Neisseriaceae
+5	233
+Vogesella
+6	234
+Halomonadaceae
+5	106
+Chromohalobacter
+6	236
+Curvibacter
+6	50
+Phaseolibacter
+6	64
+Burkholderiaceae
+5	49
+Ralstonia
+6	240
+Stenotrophomonas
+6	124
+Pelomonas
+6	50
+Caulobacterales
+4	102
+Caulobacteraceae
+5	244
+Brevundimonas
+6	245
+Sphingobium
+6	197
+Delftia
+6	50
+Burkholderia
+6	240
+Erythrobacteraceae
+5	196
+Porphyrobacter
+6	250
+Clostridiales_Incertae_Sedis_XIII
+5	127
+Mogibacterium
+6	252
+Halanaerobiales
+4	126
+Halanaerobiaceae
+5	254
+Halanaerobium
+6	255
+Spirochaetes
+2	7
+Spirochaetia
+3	257
+Spirochaetales
+4	258
+Spirochaetaceae
+5	259
+Borreliella
+6	260
+Kitasatospora
+6	87
+Leuconostocaceae
+5	26
+Weissella
+6	263
+Oenococcus
+6	263
+Leuconostoc
+6	263
+Agromyces
+6	57
+Promicromonosporaceae
+5	54
+Promicromonospora
+6	268
+Psychromonadaceae
+5	30
+Psychromonas
+6	270
+Natrinema
+6	75
+Caulobacter
+6	245
+Peptostreptococcaceae
+5	127
+Clostridium_XI
+6	274
+Clostridium_XlVa
+6	128
+Blastomonas
+6	197
+Nocardia
+6	59
+Catenuloplanes
+6	91
+Thermotogae
+2	7
+Thermotogae
+3	280
+Thermotogales
+4	281
+Fervidobacteriaceae
+5	282
+Thermosipho
+6	283
+Novosphingobium
+6	197
+Asaia
+6	104
+Aquificae
+2	7
+Aquificae
+3	287
+Aquificales
+4	288
+Aquificaceae
+5	289
+Hydrogenobacter
+6	290
+Aeromonas
+6	205
+Planomonospora
+6	85
+Planobispora
+6	85
+Erysipelotrichia
+3	24
+Erysipelotrichales
+4	295
+Erysipelotrichaceae
+5	296
+Coprobacillus
+6	297
+Catenibacterium
+6	297
+Intrasporangiaceae
+5	54
+Tetrasphaera
+6	300
+Solobacterium
+6	297
+Acetobacter
+6	104
+Flavobacteriia
+3	212
+Flavobacteriales
+4	304
+Flavobacteriaceae
+5	305
+Tenacibaculum
+6	306
+Anaerovibrio
+6	46
+Erysipelothrix
+6	297
+Porphyromonadaceae
+5	214
+Porphyromonas
+6	310
+Tannerella
+6	310
+Peptococcaceae_2
+5	127
+Pelotomaculum
+6	313
+Pseudoramibacter
+6	194
+Cryptosporangiaceae
+5	54
+Cryptosporangium
+6	316
+Haloferacales
+4	70
+Haloferacaceae
+5	318
+Haloferax
+6	319
+Clostridiaceae_2
+5	127
+Alkaliphilus
+6	321
+Coprococcus
+6	128
+Clostridiales_Incertae_Sedis_XI
+5	127
+Gallicola
+6	324
+Methanomicrobiaceae
+5	133
+Methanoculleus
+6	326
+Family_I
+4	33
+GpI
+5	328
+Thermotogaceae
+5	282
+Thermotoga
+6	330
+Paenibacillaceae_1
+5	143
+Paenibacillus
+6	332
+Alicyclobacillaceae
+5	143
+Alicyclobacillus
+6	334
+Bacillales_incertae_sedis
+5	143
+Hydrogenibacillus
+6	336
+Kyrpidia
+6	334
+Okibacterium
+6	57
+Streptophyta
+5	22
+Propionibacterium
+6	166
+Thiotrichales
+4	9
+Thiotrichaceae
+5	342
+Thiothrix
+6	343
+Sporolactobacillaceae
+5	143
+Halobiforma
+6	72
+Family_XIII
+4	33
+GpXIII
+5	347
+Rhodococcus
+6	59
+Curtobacterium
+6	57
+Chloroflexi
+2	7
+Anaerolineae
+3	351
+Anaerolineales
+4	352
+Anaerolineaceae
+5	353
+Anaerolinea
+6	354
+Dietziaceae
+5	54
+Dietzia
+6	356
+Thermoactinomycetaceae_1
+5	143
+Shimazuella
+6	358
+Edwardsiella
+6	64
+Cupriavidus
+6	240
+Thermococcus
+6	201
+Rarobacteraceae
+5	54
+Rarobacter
+6	363
+Kozakia
+6	104
+Methanococci
+3	69
+Methanococcales
+4	366
+Methanococcaceae
+5	367
+Methanothermococcus
+6	368
+Actinokineospora
+6	94
+Cytophagia
+3	212
+Cytophagales
+4	371
+Flammeovirgaceae
+5	372
+Reichenbachiella
+6	373
+Thermanaeromonas
+6	210
+Microtetraspora
+6	85
+Pseudoalteromonadaceae
+5	30
+Algicola
+6	377
+Vulcanisaeta
+6	80
+Diaphorobacter
+6	50
+Prevotellaceae
+5	214
+Prevotella
+6	381
+Caldilineae
+3	351
+Caldilineales
+4	383
+Caldilineaceae
+5	384
+Caldilinea
+6	385
+Nitrosomonadales
+4	48
+Nitrosomonadaceae
+5	387
+Nitrosomonas
+6	388
+Hydrogenothermaceae
+5	289
+Sulfurihydrogenibium
+6	390
+Vitellibacter
+6	306
+Rhodospirillaceae
+5	103
+Tistrella
+6	393
+Methanosarcinales
+4	132
+Methanotrichaceae
+5	395
+Methanothrix
+6	396
+Micrococcaceae
+5	54
+Arthrobacter
+6	398
+Rothia
+6	398
+Elizabethkingia
+6	306
+Gemmatimonadetes
+2	7
+Gemmatimonadetes
+3	402
+Gemmatimonadales
+4	403
+Gemmatimonadaceae
+5	404
+Gemmatimonas
+6	405
+Halosimplex
+6	72
+Rheinheimera
+6	187
+Marinomonas
+6	107
+Aquaspirillum
+6	234
+Novispirillum
+6	393
+Giesbergeria
+6	50
+Flavobacterium
+6	306
+Alteromonadaceae
+5	30
+Agarivorans
+6	414
+Sporotomaculum
+6	313
+Macromonas
+6	50
+Malikia
+6	50
+Thermodesulfobiaceae
+5	209
+Thermodesulfobium
+6	419
+Cryomorphaceae
+5	305
+Crocinitomix
+6	421
+Sphingobacteriia
+3	212
+Sphingobacteriales
+4	423
+Sphingobacteriaceae
+5	424
+Solitalea
+6	425
+Chitinophagaceae
+5	424
+Chitinophaga
+6	427
+Cytophagaceae
+5	372
+Flexibacter
+6	429
+Marivirga
+6	373
+Flexithrix
+6	373
+Flammeovirga
+6	373
+Marinoscillum
+6	373
+Microscilla
+6	429
+Paludibacter
+6	310
+Propionicimonas
+6	166
+Deinococcus-Thermus
+2	7
+Deinococci
+3	438
+Thermales
+4	439
+Thermaceae
+5	440
+Marinithermus
+6	441
+Arenibacter
+6	306
+Alphaproteobacteria_incertae_sedis
+4	102
+Rhizomicrobium
+5	444
+Shewanellaceae
+5	30
+Shewanella
+6	446
+Carnobacteriaceae
+5	26
+Marinilactibacillus
+6	448
+Carnobacterium
+6	448
+Nannocystaceae
+5	181
+Plesiocystis
+6	451
+Sphingosinicella
+6	197
+Nannocystis
+6	451
+Pseudozobellia
+6	306
+Kriegella
+6	306
+Deferribacteres
+2	7
+Deferribacteres
+3	457
+Deferribacterales
+4	458
+Deferribacteraceae
+5	459
+Deferribacter
+6	460
+Cedecea
+6	64
+Persephonella
+6	390
+Conchiformibius
+6	234
+Alysiella
+6	234
+Bergeriella
+6	234
+Deinococcales
+4	439
+Deinococcaceae
+5	467
+Deinococcus
+6	468
+Acidilobales
+4	78
+Caldisphaeraceae
+5	470
+Caldisphaera
+6	471
+Rhodoplanes
+6	189
+Bradyrhizobiaceae
+5	112
+Rhodopseudomonas
+6	474
+Nocardioidaceae
+5	54
+Nocardioides
+6	476
+Paraliobacillus
+6	148
+Thermoactinomycetaceae_2
+5	143
+Planifilum
+6	479
+Epsilonproteobacteria
+3	8
+Campylobacterales
+4	481
+Helicobacteraceae
+5	482
+Sulfurimonas
+6	483
+Saprospiraceae
+5	424
+Saprospira
+6	485
+Longispora
+6	91
+Derxia
+6	146
+Lampropedia
+6	50
+Sulfobacillus
+6	157
+Halorubrum
+6	319
+Pseudoalteromonas
+6	377
+Frateuria
+6	124
+Sulfurovum
+6	483
+Dermatophilaceae
+5	54
+Tonsilliphilus
+6	495
+Enhygromyxa
+6	451
+Methylobacteriaceae
+5	112
+Microvirga
+6	498
+Rhodanobacter
+6	124
+Sphingobacterium
+6	425
+Lactococcus
+6	27
+Heliobacteriaceae
+5	127
+Heliobacillus
+6	503
+Heliobacterium
+6	503
+Cellulophaga
+6	306
+Methanocaldococcaceae
+5	367
+Methanotorris
+6	507
+Gemmobacter
+6	119
+Gracilibacillus
+6	148
+Planococcaceae
+5	143
+Ureibacillus
+6	511
+Sporolactobacillus
+6	345
+Methanobacteria
+3	69
+Methanobacteriales
+4	514
+Methanobacteriaceae
+5	515
+Methanothermobacter
+6	516
+Hydrogenimonaceae
+5	482
+Hydrogenimonas
+6	518
+Desulfurobacteriales
+4	288
+Desulfurobacteriaceae
+5	520
+Balnearium
+6	521
+Bacillales_Incertae_Sedis_XII
+5	143
+Exiguobacterium
+6	523
+Clostridiales_Incertae_Sedis_III
+5	127
+Tepidanaerobacter
+6	525
+Micromonospora
+6	91
+Actinocatenispora
+6	91
+Cerasibacillus
+6	148
+Oceanithermus
+6	441
+Leptolinea
+6	354
+Levilinea
+6	354
+Desulfurococcales
+4	78
+Desulfurococcaceae
+5	533
+Aeropyrum
+6	534
+Anoxybacillus
+6	217
+Saccharibacter
+6	104
+Dyella
+6	124
+Desulfobacterales
+4	180
+Desulfobacteraceae
+5	539
+Desulfoluna
+6	540
+Desulfovibrionales
+4	180
+Desulfovibrionaceae
+5	542
+Desulfovibrio
+6	543
+Desulfobulbaceae
+5	539
+Desulfopila
+6	545
+Desulfobulbus
+6	545
+Borrelia
+6	260
+Asanoa
+6	91
+Planotetraspora
+6	85
+Brevibacillus
+6	332
+Paenibacillaceae_2
+5	143
+Aneurinibacillus
+6	552
+Salegentibacter
+6	306
+Acidobacteria_Gp21
+3	169
+Gp21
+4	555
+Acidobacteria_Gp10
+3	169
+Gp10
+4	557
+Halothiobacillaceae
+5	186
+Thiovirga
+6	559
+Hydrogenivirga
+6	290
+Jannaschia
+6	119
+Zobellia
+6	306
+Microbulbifer
+6	414
+Owenweeksia
+6	421
+Natronolimnobius
+6	75
+Alkalibacterium
+6	448
+Pleomorphomonas
+6	113
+Lentibacillus
+6	148
+Gluconobacter
+6	104
+Methanoregulaceae
+5	133
+Methanolinea
+6	571
+Comamonas
+6	50
+Piscirickettsiaceae
+5	342
+Thiomicrospira
+6	574
+Komagataeibacter
+6	104
+Xanthobacteraceae
+5	112
+Starkeya
+6	577
+Castellaniella
+6	146
+Phenylobacterium
+6	245
+Azonexus
+6	231
+Cellulomonadaceae
+5	54
+Cellulomonas
+6	582
+Nautiliales
+4	481
+Nautiliaceae
+5	584
+Lebetimonas
+6	585
+Sinobacteraceae
+5	123
+Steroidobacter
+6	587
+Thioreductor
+6	585
+Nitratiruptor
+6	585
+Nitratifractor
+6	585
+Methylobacterium
+6	498
+Azotobacter
+6	137
+Azomonas
+6	137
+Pseudovibrio
+6	119
+Thiotrichales_incertae_sedis
+5	342
+Fangia
+6	596
+Myroides
+6	306
+Lishizhenia
+6	421
+Plantibacter
+6	57
+Thiobacter
+6	116
+Catenulisporaceae
+5	54
+Catenulispora
+6	602
+Armatimonadetes
+2	7
+Armatimonadetes_gp2
+3	604
+Actinomadura
+6	96
+Streptoalloteichus
+6	94
+Azospirillum
+6	393
+Gracilibacteraceae
+5	127
+Lutispora
+6	609
+Rhizobiaceae
+5	112
+Shinella
+6	611
+Azohydromonas
+6	146
+Halobacillus
+6	148
+Terrimonas
+6	427
+Chryseobacterium
+6	306
+Oryzihumus
+6	300
+Solirubrobacterales
+4	53
+Patulibacteraceae
+5	618
+Patulibacter
+6	619
+Tateyamaria
+6	119
+Methylophilales
+4	48
+Methylophilaceae
+5	622
+Methylophilus
+6	623
+Ferrimonadaceae
+5	30
+Ferrimonas
+6	625
+Piscibacillus
+6	148
+Silvimonas
+6	234
+Methanocellales
+4	132
+Methanocellaceae
+5	629
+Methanocella
+6	630
+Hahellaceae
+5	106
+Endozoicomonas
+6	632
+Halolactibacillus
+6	148
+Virgibacillus
+6	148
+Cyclobacteriaceae
+5	372
+Algoriphagus
+6	636
+Dokdonia
+6	306
+Lysinibacillus
+6	511
+Catellatospora
+6	91
+Zoogloea
+6	231
+Diapherotrites_Incertae_Sedis_AR10
+3	5
+Anaerovirgula
+6	321
+Nonlabens
+6	306
+Sediminicola
+6	306
+Neoasaia
+6	104
+Sphaerisporangium
+6	85
+Sharpea
+6	297
+Kandleria
+6	297
+Syntrophorhabdaceae
+4	180
+Syntrophorhabdus
+5	650
+Dethiosulfatibacter
+6	324
+Polymorphospora
+6	91
+Tuberibacillus
+6	148
+Rhizobiales_incertae_sedis
+5	112
+Alsobacter
+6	655
+Legionellales
+4	9
+Legionellaceae
+5	657
+Legionella
+6	658
+Labrys
+6	577
+Krasilnikovia
+6	91
+Luedemannella
+6	91
+Oscillibacter
+6	155
+Parabacteroides
+6	310
+Mechercharimyces
+6	479
+Mycobacteriaceae
+5	54
+Mycobacterium
+6	666
+Alloscardovia
+6	100
+Smaragdicoccus
+6	59
+Bellilinea
+6	354
+Longilinea
+6	354
+Terribacillus
+6	148
+Sporosarcina
+6	511
+Amphibacillus
+6	148
+Kaistia
+6	611
+Solirubrobacteraceae
+5	618
+Solirubrobacter
+6	676
+Sphingopyxis
+6	197
+Inquilinus
+6	393
+Rhizobacter
+6	137
+Variovorax
+6	50
+Dokdonella
+6	124
+Pedobacter
+6	425
+Dyadobacter
+6	429
+Emticicia
+6	429
+Tumebacillus
+6	334
+Aeromicrobium
+6	476
+Microlunatus
+6	166
+Kribbella
+6	476
+Sulfurivirga
+6	574
+Thiomonas
+6	116
+Aureispira
+6	485
+Loktanella
+6	119
+Campylobacteraceae
+5	482
+Sulfurospirillum
+6	694
+Rhizobium
+6	611
+Paraglaciecola
+6	414
+Sinomonas
+6	398
+Amycolatopsis
+6	94
+Streptacidiphilus
+6	87
+Calditerricola
+6	336
+Hymenobacter
+6	429
+Paraferrimonas
+6	625
+Thermobacillus
+6	332
+Galbibacter
+6	306
+Gilvibacter
+6	306
+Sediminibacter
+6	306
+Sediminitomix
+6	373
+Ruegeria
+6	119
+Panacagrimonas
+6	587
+Pediococcus
+6	83
+Salinicoccus
+6	144
+Persicobacter
+6	373
+Marixanthomonas
+6	306
+Petrotogales
+4	281
+Petrotogaceae
+5	715
+Marinitoga
+6	716
+Zeaxanthinibacter
+6	306
+Nubsella
+6	425
+Alkalibacillus
+6	148
+Halalkalibacillus
+6	148
+Desulfohalobiaceae
+5	542
+Desulfothermus
+6	722
+Mesoflavibacter
+6	306
+Rapidithrix
+6	373
+Thalassospira
+6	393
+Asaccharobacter
+6	160
+Thioalkalispiraceae
+5	186
+Thioprofundum
+6	728
+Verrucomicrobia
+2	7
+Opitutae
+3	730
+Puniceicoccales
+4	731
+Puniceicoccaceae
+5	732
+Coraliomargarita
+6	733
+Flavisolibacter
+6	427
+Segetibacter
+6	427
+Olivibacter
+6	425
+Mucilaginibacter
+6	425
+Barnesiella
+6	310
+Thermoplasmata
+3	69
+Thermoplasmatales
+4	740
+Thermoplasmatales_incertae_sedis
+5	741
+Thermogymnomonas
+6	742
+Robiginitalea
+6	306
+Alkalimonas
+5	10
+Cohnella
+6	332
+Kurthia
+6	511
+Rummeliibacillus
+6	511
+Persicitalea
+6	429
+Citrobacter
+6	64
+Syntrophomonas
+6	227
+Archaeoglobi
+3	69
+Archaeoglobales
+4	752
+Archaeoglobaceae
+5	753
+Archaeoglobus
+6	754
+Perexilibacter
+6	373
+Verrucomicrobiae
+3	730
+Verrucomicrobiales
+4	757
+Rubritaleaceae
+5	758
+Rubritalea
+6	759
+Agrococcus
+6	57
+Leptospiraceae
+5	259
+Leptospira
+6	762
+Aquificales_incertae_sedis
+5	289
+Thermosulfidibacter
+6	764
+Microterricola
+6	57
+Intrasporangium
+6	300
+Humibacillus
+6	300
+Saccharothrix
+6	94
+Salinivibrio
+6	18
+Halobacterium
+6	72
+Pelagicoccus
+6	733
+Janibacter
+6	300
+Marihabitans
+6	300
+Neptunomonas
+6	107
+Methanosarcinaceae
+5	395
+Methanosarcina
+6	776
+Sneathiellales
+4	102
+Sneathiellaceae
+5	778
+Sneathiella
+6	779
+Cerasicoccus
+6	733
+Fulvibacter
+6	306
+Roseomonas
+6	104
+Propioniciclava
+6	166
+Peptoniphilaceae
+5	127
+Anaerosphaera
+6	785
+Rikenellaceae
+5	214
+Anaerocella
+6	787
+Propionispira
+6	46
+Megamonas
+6	46
+Sutterellaceae
+5	49
+Sutterella
+6	791
+Bradyrhizobium
+6	474
+Lewinella
+6	485
+Methylococcales
+4	9
+Methylococcaceae
+5	795
+Methylomarinum
+6	796
+Methylomarinovum
+6	796
+Pseudosporangium
+6	91
+Tropicibacter
+6	119
+Tropicimonas
+6	119
+Tranquillimonas
+6	119
+Holophagae
+3	169
+Acanthopleuribacterales
+4	803
+Acanthopleuribacteraceae
+5	804
+Acanthopleuribacter
+6	805
+Actinosynnema
+6	94
+Ameyamaea
+6	104
+Tanticharoenia
+6	104
+Thiofaba
+6	559
+Actinomycetaceae
+5	54
+Trueperella
+6	811
+Verrucomicrobiaceae
+5	758
+Prosthecobacter
+6	813
+Adlercreutzia
+6	160
+Pseudoclavibacter
+6	57
+Amphritea
+6	107
+Persicirhabdus
+6	813
+Roseibacillus
+6	813
+Luteolibacter
+6	813
+Paraprevotella
+6	381
+Limibacter
+6	373
+Acidimicrobiales
+4	53
+Acidimicrobiaceae
+5	823
+Ilumatobacter
+6	824
+Iamiaceae
+5	823
+Iamia
+6	826
+Devosia
+6	189
+Clostridiales_Incertae_Sedis_XVIII
+5	127
+Symbiobacterium
+6	829
+Schumannella
+6	57
+Leptobacterium
+6	306
+Acidocella
+6	104
+Prolixibacteraceae
+5	214
+Sunxiuqinia
+6	834
+Marinilabiliaceae
+5	214
+Geofilum
+6	836
+Filimonas
+6	427
+Altererythrobacter
+6	250
+Calditerrivibrio
+6	460
+Spirochaetales_incertae_sedis
+5	259
+Exilispira
+6	841
+Actinoallomurus
+6	96
+Paramoritella
+6	129
+Limnobacter
+6	240
+Methanobacterium
+6	516
+Thalassomonas
+6	31
+Brucellaceae
+5	112
+Paenochrobactrum
+6	848
+Methanolobus
+6	776
+Dialister
+6	46
+Parasutterella
+6	791
+Methanofollis
+6	326
+Halarchaeum
+6	72
+Haloferula
+6	813
+Glaciibacter
+6	57
+Caldiserica
+2	7
+Caldisericia
+3	857
+Caldisericales
+4	858
+Caldisericaceae
+5	859
+Caldisericum
+6	860
+Lacticigenium
+6	448
+Oleibacter
+6	107
+Bogoriellaceae
+5	54
+Georgenia
+6	864
+Winogradskyella
+6	306
+Blautia
+6	128
+Bartonellaceae
+5	112
+Bartonella
+6	868
+Butyricimonas
+6	310
+Paraoerskovia
+6	582
+Friedmanniella
+6	166
+Planctomycetes
+2	7
+Phycisphaerae
+3	873
+Phycisphaerales
+4	874
+Phycisphaeraceae
+5	875
+Phycisphaera
+6	876
+Geomicrobium
+6	148
+Natribacillus
+6	148
+Clostridiales_Incertae_Sedis_IV
+5	127
+Caldicoprobacter
+6	880
+Chitiniphilus
+6	234
+Salarchaeum
+6	72
+Plantactinospora
+6	91
+Dactylosporangium
+6	91
+Beutenbergiaceae
+5	54
+Serinibacter
+6	886
+Natronoarchaeum
+6	72
+Aliivibrio
+6	18
+Umboniibacter
+5	10
+Dermacoccaceae
+5	54
+Luteipulveratus
+6	891
+Pandoraea
+6	240
+Demequinaceae
+5	54
+Demequina
+6	894
+Aliiglaciecola
+6	414
+Halobaculum
+6	319
+Ignavibacteriae
+2	7
+Ignavibacteria
+3	898
+Ignavibacteriales
+4	899
+Ignavibacteriaceae
+5	900
+Ignavibacterium
+6	901
+Euzebyales
+4	53
+Euzebyaceae
+5	903
+Euzebya
+6	904
+Methanoregula
+6	571
+Halostagnicola
+6	75
+Micrococcineae_incertae_sedis
+5	54
+Luteimicrobium
+6	908
+Phytohabitans
+6	91
+Alistipes
+6	787
+Odoribacter
+6	310
+Slackia
+6	160
+Christensenellaceae
+5	127
+Christensenella
+6	914
+Succinivibrionaceae
+5	204
+Succinatimonas
+6	916
+Acidaminococcaceae
+5	45
+Phascolarctobacterium
+6	918
+Nocardiopsaceae
+5	54
+Nocardiopsis
+6	920
+Corynebacterineae_incertae_sedis
+5	54
+Tomitella
+6	922
+Cocleimonas
+5	10
+Marinicella
+5	10
+Arenicellales
+4	9
+Arenicellaceae
+5	926
+Arenicella
+6	927
+Ktedonobacteria
+3	351
+Ktedonobacterales
+4	929
+Thermosporotrichaceae
+5	930
+Thermosporothrix
+6	931
+Methylovulum
+6	796
+Alcanivoracaceae
+5	106
+Kangiella
+6	934
+Sulfuricellales
+4	48
+Sulfuricellaceae
+5	936
+Sulfuricella
+6	937
+Constrictibacter
+6	393
+Actinophytocola
+6	94
+Angustibacter
+6	55
+Neokomagataea
+6	104
+Pseudonocardia
+6	94
+Actinomycetospora
+6	94
+Aquimarina
+6	306
+Acidimicrobineae_incertae_sedis
+5	823
+Aciditerrimonas
+6	946
+Marinilabilia
+6	836
+Salinirepens
+6	421
+Methanospirillaceae
+5	133
+Methanospirillum
+6	950
+Litoreibacter
+6	119
+Yokenella
+6	64
+Halomarina
+6	72
+Branchiibius
+6	891
+Arsenicicoccus
+6	300
+Miniimonas
+6	886
+Parasphingopyxis
+6	197
+Fusobacteria
+2	7
+Fusobacteriia
+3	959
+Fusobacteriales
+4	960
+Fusobacteriaceae
+5	961
+Fusobacterium
+6	962
+Lachnoanaerobaculum
+6	128
+Eikenella
+6	234
+Armatimonadia
+3	604
+Armatimonadales
+4	966
+Armatimonadaceae
+5	967
+Armatimonas/Armatimonadetes_gp1
+6	968
+Herbidospora
+6	85
+Kosmotogales
+4	281
+Kosmotogaceae
+5	971
+Kosmotoga
+6	972
+Thermasporomyces
+6	476
+Methylothermus
+6	796
+Dermabacteraceae
+5	54
+Brachybacterium
+6	976
+Streptosporangium
+6	85
+Catenisphaera
+6	297
+Methylomonas
+6	796
+Flexivirga
+6	891
+Oligoflexia
+3	8
+Oligoflexales
+4	982
+Oligoflexaceae
+5	983
+Oligoflexus
+6	984
+Fructobacillus
+6	263
+Hyphomicrobium
+6	189
+Psychrosphaera
+6	377
+Rhodothermaceae
+5	424
+Rubricoccus
+6	989
+Actinomyces
+6	811
+Erwinia
+6	64
+Dysgonomonas
+6	310
+Thermogemmatisporales
+4	929
+Thermogemmatisporaceae
+5	994
+Thermogemmatispora
+6	995
+Povalibacter
+6	587
+Acidobacteria_Gp1
+3	169
+Granulicella
+4	998
+Pilimelia
+6	91
+Primorskyibacter
+6	119
+Mobilicoccus
+6	495
+Piscicoccus
+6	495
+Sulfuritalea
+6	231
+Roseimicrobium
+6	813
+Brevifollis
+6	813
+Aureicoccus
+6	306
+Lentisphaerae
+2	7
+Oligosphaeria
+3	1008
+Oligosphaerales
+4	1009
+Oligosphaeraceae
+5	1010
+Oligosphaera
+6	1011
+Synergistetes
+2	7
+Synergistia
+3	1013
+Synergistales
+4	1014
+Synergistaceae
+5	1015
+Lactivibrio
+6	1016
+Pacificibacter
+6	119
+Planosporangium
+6	91
+Acidipila
+4	998
+Phyllobacteriaceae
+5	112
+Chelativorans
+6	1021
+Vadicella
+6	119
+Gibbsiella
+6	64
+Hathewaya
+6	192
+Advenella
+6	146
+Aureibacter
+6	373
+Carboxydothermus
+6	210
+Poseidonocella
+6	119
+Ardenticatenia
+3	351
+Ardenticatenales
+4	1030
+Ardenticatenaceae
+5	1031
+Ardenticatena
+6	1032
+Maritalea
+6	189
+Herbiconiux
+6	57
+Meiothermus
+6	441
+Conexibacteraceae
+5	618
+Conexibacter
+6	1037
+Pelolinea
+6	354
+Spirochaeta
+6	260
+Sphaerochaeta
+6	260
+Pseudenhygromyxa
+6	451
+Roseibacterium
+6	119
+Halioglobus
+5	10
+Aureitalea
+6	306
+Brevibacteriaceae
+5	54
+Brevibacterium
+6	1046
+Acetobacteroides
+6	310
+Desulfatitalea
+6	540
+Rhodobiaceae
+5	112
+Rhodoligotrophos
+6	1050
+Idiomarinaceae
+5	30
+Idiomarina
+6	1052
+Aminivibrio
+6	1016
+Alteromonadales_incertae_sedis
+5	30
+Maricurvus
+6	1055
+Lutimaribacter
+6	119
+Gluconacetobacter
+6	104
+Lysinimicrobium
+6	894
+Cobetia
+6	236
+Polymorphobacter
+6	197
+Desulfurococcus
+6	534
+Thermomarinilinea
+6	354
+Hydrogenispora
+6	503
+Portibacter
+6	485
+Veillonella
+6	46
+Aerococcaceae
+5	26
+Aerococcus
+6	1067
+Salmonella
+6	64
+Moraxella
+6	178
+Globicatella
+6	1067
+Bergeyella
+6	306
+Ensifer
+6	611
+Tenericutes
+2	7
+Mollicutes
+3	1074
+Entomoplasmatales
+4	1075
+Spiroplasmataceae
+5	1076
+Spiroplasma
+6	1077
+Vasilyevaea
+6	655
+Ancalomicrobium
+6	189
+Iodobacter
+6	234
+Desulfuromonadales
+4	180
+Geobacteraceae
+5	1082
+Geobacter
+6	1083
+Polycladomyces
+6	479
+Hyphomonadaceae
+5	244
+Algimonas
+6	1086
+Polaribacter
+6	306
+Sediminihabitans
+6	582
+Fusicatenibacter
+6	128
+Luteimonas
+6	124
+Gallionellales
+4	48
+Gallionellaceae
+5	1092
+Ferriphaselus
+6	1093
+Salinisphaerales
+4	9
+Salinisphaeraceae
+5	1095
+Salinisphaera
+6	1096
+Nguyenibacter
+6	104
+Spongiimonas
+6	306
+Ammoniibacillus
+6	332
+Calderihabitans
+6	210
+Sulfitobacter
+6	119
+Raoultella
+6	64
+Desulfatiglans
+6	540
+Halomicroarcula
+6	72
+Desulfotomaculum
+6	313
+Zhihengliuella
+6	398
+Swingsia
+6	104
+Anaerobacterium
+6	155
+Methyloceanibacter
+6	1050
+Pseudomaricurvus
+6	1055
+Effusibacillus
+6	334
+Reyranella
+5	103
+Allokutzneria
+6	94
+Sulfurisoma
+6	231
+Halocalculus
+6	72
+Vulgatibacteraceae
+5	181
+Vulgatibacter
+6	1117
+Labilitrichaceae
+5	181
+Labilithrix
+6	1119
+Citreitalea
+6	306
+Rhizocola
+6	91
+Crenotalea
+6	427
+Glycomycetaceae
+5	54
+Glycomyces
+6	1124
+Geothermomicrobium
+6	358
+Aquibacillus
+6	148
+Agaribacter
+6	414
+Methylocaldum
+6	796
+Simiduia
+5	10
+Tamlana
+6	306
+Kordiimonadales
+4	102
+Temperatibacteraceae
+5	1132
+Temperatibacter
+6	1133
+Perspicuibacter
+6	927
+Flavicella
+6	306
+Acinetobacter
+6	178
+Mizugakiibacter
+6	124
+Amylibacter
+6	119
+Spongiivirga
+6	306
+Alteromonas
+6	414
+Mariniphaga
+6	834
+Psychrobium
+6	1055
+Frondibacter
+6	306
+Sphingorhabdus
+6	197
+Ectothiorhodospiraceae
+5	186
+Thiogranum
+6	1146
+Eukaryota
+1	0
+Zea
+2	1148
+Mus
+2	1148
+Caldanaerobacter
+6	210
+Xanthomonas
+6	124
+Methanopyri
+3	69
+Methanopyrales
+4	1153
+Methanopyraceae
+5	1154
+Methanopyrus
+6	1155
+Pyrococcus
+6	201
+Buchnera
+6	64
+Chromobacterium
+6	234
+Family_II
+4	33
+GpIIa
+5	1160
+Mycoplasmatales
+4	1075
+Mycoplasmataceae
+5	1162
+Mycoplasma
+6	1163
+Picrophilaceae
+5	741
+Picrophilus
+6	1165
+Helicobacter
+6	483
+Gelidibacter
+6	306
+Thermobifida
+6	920
+Syntrophobacterales
+4	180
+Syntrophaceae
+5	1170
+Desulfobacca
+6	1171
+Saccharopolyspora
+6	94
+Halogeometricum
+6	319
+Methylopila
+6	113
+Methylorhabdus
+6	189
+Terrabacter
+6	300
+Kluyvera
+6	64
+Providencia
+6	64
+Spartobacteria
+3	730
+Azoarcus
+6	231
+Azovibrio
+6	231
+Azospira
+6	231
+Family_XII
+4	33
+GpXII
+5	1184
+Acidobacteria_Gp3
+3	169
+Gp3
+4	1186
+Acidobacteria_Gp6
+3	169
+Gp6
+4	1188
+Acidobacteria_Gp4
+3	169
+Gp4
+4	1190
+Granulicatella
+6	448
+Propionivibrio
+6	231
+Clostridiales_Incertae_Sedis_XII
+5	127
+Acidaminobacter
+6	1194
+Hydrogenophaga
+6	50
+Desulfocella
+6	540
+Pasteurellales
+4	9
+Pasteurellaceae
+5	1198
+Actinobacillus
+6	1199
+Methanocaldococcus
+6	507
+Neorhizobium
+6	611
+Subdivision3
+3	730
+Microgenomates
+2	7
+Acetothermia
+2	7
+Aminicenantes
+2	7
+Atribacteria
+2	7
+Omnitrophica
+2	7
+Armatimonadetes_gp6
+3	604
+Armatimonadetes_gp4
+3	604
+Planomicrobium
+6	511
+Methylarcula
+6	119
+Acholeplasmatales
+4	1075
+Acholeplasmataceae
+5	1213
+Acholeplasma
+6	1214
+Thermus
+6	441
+Treponema
+6	260
+Aminobacter
+6	1021
+Aquabacterium
+6	116
+Entomoplasmataceae
+5	1076
+Entomoplasma
+6	1220
+Tessaracoccus
+6	166
+Chloroflexia
+3	351
+Herpetosiphonales
+4	1223
+Herpetosiphonaceae
+5	1224
+Herpetosiphon
+6	1225
+Mesorhizobium
+6	1021
+Cryptomonadaceae
+5	22
+Chlamydiae
+2	7
+Chlamydiia
+3	1229
+Chlamydiales
+4	1230
+Waddliaceae
+5	1231
+Waddlia
+6	1232
+Campylobacter
+6	694
+Dechloromonas
+6	231
+Fusibacter
+6	1194
+Subdivision5
+3	730
+Prauserella
+6	94
+Mannheimia
+6	1199
+Halomonas
+6	236
+Saccharophagus
+6	414
+Anaerobacillus
+6	217
+Taylorella
+6	146
+Aminobacterium
+6	1016
+Nitrobacter
+6	474
+Anaeromusa
+6	46
+Halorhabdus
+6	72
+Pseudaminobacter
+6	1021
+Aminomonas
+6	1016
+Ureaplasma
+6	1163
+Opitutales
+4	731
+Opitutaceae
+5	1251
+Alterococcus
+6	1252
+Peptococcaceae_1
+5	127
+Desulfosporosinus
+6	1254
+Hylemonella
+6	50
+Simplicispira
+6	50
+Acidovorax
+6	50
+Heliorestis
+6	503
+Hyphomonas
+6	1086
+Blastochloris
+6	189
+Bdellovibrionales
+4	180
+Bacteriovoracaceae
+5	1262
+Peredibacter
+6	1263
+Halobacteriovorax
+6	1263
+Chloroflexales
+4	1223
+Oscillochloridaceae
+5	1266
+Oscillochloris
+6	1267
+Methanocorpusculaceae
+5	133
+Methanocorpusculum
+6	1269
+Roseovarius
+6	119
+Desulfotalea
+6	545
+Desulfofaba
+6	540
+Desulfofrigus
+6	540
+Caloramator
+6	192
+Xylanimicrobium
+6	268
+Kineosphaera
+6	495
+Beggiatoa
+6	343
+Thiocapsa
+6	187
+Clostridiaceae_3
+5	127
+Thermohalobacter
+6	1280
+Aliiroseovarius
+6	119
+Alkalispirillum
+6	1146
+Kutzneria
+6	94
+Lechevalieria
+6	94
+Crossiella
+6	94
+Thermomonospora
+6	96
+Sporobacterium
+6	128
+Erythrobacter
+6	250
+Enterovibrio
+6	18
+Desulforhopalus
+6	545
+Methanomethylovorans
+6	776
+Thermoanaerobacter
+6	210
+Smithella
+6	1171
+Thioalkalivibrio
+6	1146
+Thioalkalimicrobium
+6	574
+Klebsiella
+6	64
+Family_III
+4	33
+GpIII
+5	1298
+Oligella
+6	146
+Ketogulonicigenium
+6	119
+Runella
+6	429
+Thermoflavimicrobium
+6	358
+Thermoactinomyces
+6	358
+Seinonella
+6	479
+Laceyella
+6	358
+Family_XI
+4	33
+GpXI
+5	1307
+Catenococcus
+6	18
+Ramlibacter
+6	50
+Alishewanella
+6	414
+Candidatus_Saccharibacteria
+2	7
+Denitrovibrio
+6	460
+Tsukamurellaceae
+5	54
+Tsukamurella
+6	1314
+Hamadaea
+6	91
+Halobacteroidaceae
+5	254
+Orenia
+6	1317
+Methylobacter
+6	796
+Acidobacteria_Gp9
+3	169
+Gp9
+4	1320
+Agreia
+6	57
+Rathayibacter
+6	57
+Spirillospora
+6	96
+Papillibacter
+6	155
+Viridibacillus
+6	511
+Chlorobi
+2	7
+Chlorobia
+3	1327
+Chlorobiales
+4	1328
+Chlorobiaceae
+5	1329
+Chloroherpeton
+6	1330
+Syntrophobacteraceae
+5	1170
+Desulfacinum
+6	1332
+Halothiobacillus
+6	559
+Cryomorpha
+6	421
+Aequorivita
+6	306
+Catelliglobosispora
+6	91
+Methylibium
+6	116
+Parachlamydiaceae
+5	1231
+Neochlamydia
+6	1339
+Methylosarcina
+6	796
+Procabacteriales
+4	48
+Procabacteriaceae
+5	1342
+Candidatus_Procabacter
+6	1343
+Bordetella
+6	146
+Tepidimonas
+6	116
+Rickettsiales
+4	102
+Rickettsiaceae
+5	1347
+Rickettsia
+6	1348
+Streptomonospora
+6	920
+Defluviicoccus
+6	393
+Meganema
+6	498
+Renibacterium
+6	398
+Riemerella
+6	306
+Acidobacteria_Gp11
+3	169
+Gp11
+4	1355
+Acidilobaceae
+5	470
+Acidilobus
+6	1357
+Xylella
+6	124
+Syntrophococcus
+6	128
+Leeuwenhoekiella
+6	306
+Clostridiales_Incertae_Sedis_XIV
+5	127
+Anaerobranca
+6	1362
+Leptotrichiaceae
+5	961
+Leptotrichia
+6	1364
+Zymobacter
+6	236
+Xiphinematobacter
+4	1180
+Muricauda
+6	306
+Bulleidia
+6	297
+Geoglobus
+6	754
+Ferroglobus
+6	754
+Haemophilus
+6	1199
+Subtercola
+6	57
+Propioniferax
+6	166
+Gallibacterium
+6	1199
+Desulfomonile
+6	1171
+Dethiosulfovibrio
+6	1016
+Actinopolymorpha
+6	476
+Methanobrevibacter
+6	516
+Desulforegula
+6	540
+Kineococcus
+6	55
+Rhodobaca
+6	119
+Roseinatronobacter
+6	119
+Tropheryma
+6	582
+Kushneria
+6	236
+Ferrimicrobium
+6	824
+Natrialba
+6	75
+Samsonia
+6	64
+Bosea
+6	474
+Albibacter
+6	113
+Zymomonas
+6	197
+Jeotgalibacillus
+6	511
+Thermolithobacteria
+3	24
+Thermolithobacterales
+4	1393
+Thermolithobacteraceae
+5	1394
+Thermolithobacter
+6	1395
+Pigmentiphaga
+6	146
+Xenophilus
+6	50
+Marinobacter
+6	414
+Afipia
+6	474
+Atopobium
+6	160
+Olsenella
+6	160
+Eggerthella
+6	160
+Pasteurella
+6	1199
+Desulfitobacterium
+6	1254
+Lachnobacterium
+6	128
+Mesoplasma
+6	1220
+Methylomicrobium
+6	796
+Selenihalanaerobacter
+6	1317
+Gelria
+6	210
+Ornithinibacillus
+6	148
+Simonsiella
+6	234
+Alcanivorax
+6	934
+Thermodesulfobacteria
+2	7
+Thermodesulfobacteria
+3	1414
+Thermodesulfobacteriales
+4	1415
+Thermodesulfobacteriaceae
+5	1416
+Thermodesulfobacterium
+6	1417
+Halopiger
+6	75
+Anaeroglobus
+6	46
+Turicibacter
+6	297
+Pseudothermotoga
+6	330
+Leptospirillum
+6	225
+Nautilia
+6	585
+Desulfuromonadaceae
+5	1082
+Desulfuromonas
+6	1425
+Sporanaerobacter
+6	324
+Yersinia
+6	64
+Tindallia
+6	321
+Desulfonatronaceae
+5	542
+Desulfonatronum
+6	1430
+Planctomycetia
+3	873
+Candidatus_Brocadiales
+4	1432
+Candidatus_Brocadiaceae
+5	1433
+Candidatus_Brocadia
+6	1434
+Candidatus_Kuenenia
+6	1434
+Acidithiobacillales
+4	9
+Acidithiobacillaceae
+5	1437
+Acidithiobacillus
+6	1438
+Methylophaga
+6	574
+Acidiferrobacter
+6	1146
+Laribacter
+6	234
+Azorhizobium
+6	577
+Thermodesulfatator
+6	1417
+Trichococcus
+6	448
+Shuttleworthia
+6	128
+Xanthobacter
+6	577
+Xylanimonas
+6	268
+Alkalilimnicola
+6	1146
+Desulfococcus
+6	540
+Desulfarculales
+4	180
+Desulfarculaceae
+5	1451
+Desulfarculus
+6	1452
+Desulfobacter
+6	540
+Desulfotignum
+6	540
+Desulfobacterium
+6	540
+Sedimenticola
+5	10
+Halalkalicoccus
+6	72
+Hespellia
+6	128
+Atopostipes
+6	448
+Robinsoniella
+6	128
+Vagococcus
+6	162
+Cellvibrio
+6	137
+Proteocatella
+6	274
+Haematobacter
+6	119
+Swaminathania
+6	104
+Acidobacteria_Gp2
+3	169
+Gp2
+4	1467
+Rubrobacterales
+4	53
+Rubrobacteraceae
+5	1469
+Rubrobacter
+6	1470
+Rubritepida
+6	104
+Albidovulum
+6	119
+Erythromicrobium
+6	250
+Megasphaera
+6	46
+Acidaminococcus
+6	918
+Mitsuokella
+6	46
+Thioalkalispira
+6	1146
+Acidobacteria_Gp17
+3	169
+Gp17
+4	1479
+Moorella
+6	210
+Actinobaculum
+6	811
+Neisseria
+6	234
+Fluviicola
+6	421
+Epilithonimonas
+6	306
+Gp1
+4	998
+Planococcus
+6	511
+Cardiobacteriales
+4	9
+Cardiobacteriaceae
+5	1488
+Cardiobacterium
+6	1489
+Acidobacteria_Gp25
+3	169
+Gp25
+4	1491
+candidate_division_ZB3
+2	7
+Psychroflexus
+6	306
+Nesiotobacter
+6	119
+Arcobacter
+6	694
+Alkanindiges
+6	178
+Dickeya
+6	64
+Brumimicrobium
+6	421
+Anoxynatronum
+6	321
+Rhodocista
+6	393
+Chthonomonadetes
+3	604
+Chthonomonadales
+4	1502
+Chthonomonadaceae
+5	1503
+Chthonomonas/Armatimonadetes_gp3
+6	1504
+Acidobacteria_Gp13
+3	169
+Gp13
+4	1506
+Acidobacteria_Gp18
+3	169
+Gp18
+4	1508
+Telmatospirillum
+6	393
+Desulfonauticus
+6	722
+Escherichia/Shigella
+6	64
+Nitratireductor
+6	1021
+Mesonia
+6	306
+Filifactor
+6	274
+Salinibacterium
+6	57
+Saccharomonospora
+6	94
+Thermomonas
+6	124
+Finegoldia
+6	324
+Peptoniphilus
+6	785
+Anaerococcus
+6	324
+Parvularculales
+4	102
+Parvularculaceae
+5	1522
+Parvularcula
+6	1523
+Allisonella
+6	46
+Histophilus
+6	1199
+Family_VII
+4	33
+GpVII
+5	1527
+Nevskia
+6	587
+Desulfurobacterium
+6	521
+Thiohalocapsa
+6	187
+Propionimicrobium
+6	166
+Caldicellulosiruptor
+6	525
+Alloprevotella
+6	381
+Thermocrinis
+6	290
+Micrococcus
+6	398
+Lamprocystis
+6	187
+Solibacillus
+6	511
+Thiorhodospira
+6	1146
+Desulfosporomusa
+6	46
+Succinispira
+6	918
+Photorhabdus
+6	64
+Asticcacaulis
+6	245
+Acidobacteria_Gp7
+3	169
+Gp7
+4	1544
+Thioflavicoccus
+6	187
+Anaerosinus
+6	46
+Anaeroarcus
+6	46
+Dendrosporobacter
+6	46
+Centipeda
+6	46
+Acetonema
+6	46
+Roseospirillum
+6	1050
+Staphylothermus
+6	534
+Dolosicoccus
+6	1067
+Luteococcus
+6	166
+Aquamicrobium
+6	1021
+Dorea
+6	128
+Pararhodospirillum
+6	393
+Chromatium
+6	187
+Pectobacterium
+6	64
+Isochromatium
+6	187
+Thiocystis
+6	187
+Marichromatium
+6	187
+Ferroplasmaceae
+5	741
+Ferroplasma
+6	1564
+Maricaulis
+6	1086
+Glycocaulis
+6	1086
+Opitutus
+6	1252
+Planctomycetales
+4	1432
+Planctomycetaceae
+5	1569
+Gimesia
+6	1570
+Rubinisphaera
+6	1570
+Isosphaera
+6	1570
+Buttiauxella
+6	64
+Budvicia
+6	64
+Brenneria
+6	64
+Pantoea
+6	64
+Lonsdalea
+6	64
+Leminorella
+6	64
+Obesumbacterium
+6	64
+Pragia
+6	64
+Rahnella
+6	64
+Tatumella
+6	64
+Cystobacteraceae
+5	181
+Melittangium
+6	1584
+Polyangiaceae
+5	181
+Chondromyces
+6	1586
+Kofleriaceae
+5	181
+Kofleria
+6	1588
+Arcanobacterium
+6	811
+Desulfosarcina
+6	540
+Desulfomicrobiaceae
+5	542
+Desulfomicrobium
+6	1592
+Desulfovirga
+6	1332
+Desulfobacula
+6	540
+Methanimicrococcus
+6	776
+Filobacillus
+6	148
+Acidobacteria_Gp22
+3	169
+Gp22
+4	1598
+Bacillales_Incertae_Sedis_X
+5	143
+Thermicanus
+6	1600
+Ochrobactrum
+6	848
+Alcaligenes
+6	146
+Thiobacillus
+6	141
+Anaerobaculum
+6	1016
+Dermatophilus
+6	495
+Austwickia
+6	495
+Pelospora
+6	227
+Anaerovorax
+6	252
+Jeotgalicoccus
+6	144
+Bacillales_Incertae_Sedis_XI
+5	143
+Gemella
+6	1611
+Ignatzschineria
+6	124
+Roseburia
+6	128
+Anaerostipes
+6	128
+Armatimonadetes_gp5
+3	604
+Ignicoccus
+6	534
+Parasporobacterium
+6	128
+Caloranaerobacter
+6	1280
+Thioalkalicoccus
+6	187
+Facklamia
+6	1067
+Ornithinimicrobium
+6	300
+Brackiella
+6	146
+Beijerinckiaceae
+5	112
+Methylocapsa
+6	1624
+Kocuria
+6	398
+Sporomusa
+6	46
+Propionispora
+6	46
+Bacteriovorax
+6	1263
+Nesterenkonia
+6	398
+Filibacter
+6	511
+Hydrogenothermus
+6	390
+candidate_division_WPS-2
+2	7
+candidate_division_WPS-1
+2	7
+Bdellovibrionaceae
+5	1262
+Bdellovibrio
+6	1635
+Chelatococcus
+6	1624
+Knoellia
+6	300
+Euglenida
+5	22
+Oleiphilaceae
+5	106
+Oleiphilus
+6	1640
+Acetobacterium
+6	194
+Kytococcus
+6	891
+Isoptericola
+6	268
+Roseospira
+6	393
+Thermoplasmataceae
+5	741
+Thermoplasma
+6	1646
+Geovibrio
+6	460
+Morganella
+6	64
+Tetragenococcus
+6	162
+Isobaculum
+6	448
+Clostridium_IV
+6	155
+Sterolibacterium
+6	231
+Gulosibacter
+6	57
+Ilyobacter
+6	962
+Azorhizophilus
+6	137
+Caminibacter
+6	585
+Oceanicaulis
+6	1086
+Collimonas
+6	121
+Sporocytophaga
+6	429
+Kibdelosporangium
+6	94
+Fulvimonas
+6	124
+Petrotoga
+6	716
+Alkanibacter
+6	587
+Oerskovia
+6	582
+Roseicyclus
+6	119
+Anaerotruncus
+6	155
+Saccharospirillaceae
+5	106
+Saccharospirillum
+6	1668
+Sulfuriferula
+6	937
+Thermovibrio
+6	521
+Nanoarchaeota
+2	2
+Nanoarchaeum
+3	1672
+Mobiluncus
+6	811
+Halorhodospira
+6	1146
+Clostridiaceae_4
+5	127
+Caminicella
+6	1676
+Sneathia
+6	1364
+Citricoccus
+6	398
+Family_VIII
+4	33
+GpVIII
+5	1680
+BRC1
+2	7
+Latescibacteria
+2	7
+Salana
+6	886
+Pannonibacter
+6	119
+Thiobaca
+6	187
+Sedimentibacter
+6	324
+Allofustis
+6	448
+Faecalibacterium
+6	155
+Methylocystis
+6	113
+Allobaculum
+6	297
+Alicycliphilus
+6	50
+Anaerophaga
+6	836
+Thermomicrobia
+3	351
+Sphaerobacterales
+4	1694
+Sphaerobacteraceae
+5	1695
+Sphaerobacter
+6	1696
+Xylophilus
+6	116
+Anaerobiospirillum
+6	916
+Hirschia
+6	1086
+Fictibacillus
+6	217
+Oleispira
+6	107
+Salinicola
+6	236
+Varibaculum
+6	811
+Pseudobutyrivibrio
+6	128
+Butyrivibrio
+6	128
+Deferribacterales_incertae_sedis
+5	459
+Caldithrix
+6	1707
+Thalassolituus
+6	107
+Cetobacterium
+6	962
+Pseudopedobacter
+6	425
+Rhodoglobus
+6	57
+Actinotignum
+6	811
+Lactovum
+6	27
+Gillisia
+6	306
+Thermoleophilia
+3	52
+Thermoleophilales
+4	1716
+Thermoleophilaceae
+5	1717
+Thermoleophilum
+6	1718
+Thermithiobacillaceae
+5	1437
+Thermithiobacillus
+6	1720
+Methylocella
+6	1624
+Fibrobacteres
+2	7
+Fibrobacteria
+3	1723
+Fibrobacterales
+4	1724
+Fibrobacteraceae
+5	1725
+Fibrobacter
+6	1726
+Tepidiphilus
+6	141
+Pontibaca
+6	119
+Marvinbryantia
+6	128
+Vulcanithermus
+6	441
+Kosakonia
+6	64
+Paenisporosarcina
+6	511
+Grimontia
+6	18
+Ruminococcus
+6	155
+Subdoligranulum
+6	155
+Anaerofustis
+6	194
+Acidobacteria_Gp15
+3	169
+Gp15
+4	1738
+Dinoroseobacter
+6	119
+Angulomicrobium
+6	189
+Stella
+6	104
+Arcicella
+6	429
+Ottowia
+6	50
+Cryobacterium
+6	57
+Oceanisphaera
+6	205
+Polynucleobacter
+6	240
+Allomonas
+6	18
+Enhydrobacter
+6	178
+Oceanibulbus
+6	119
+Solimonas
+6	587
+Reinekea
+6	107
+Beijerinckia
+6	1624
+Methylococcus
+6	796
+Caldibacillus
+6	217
+Belliella
+6	636
+Acidobacteria_Gp5
+3	169
+Gp5
+4	1757
+Fastidiosipila
+6	155
+Cloacibacterium
+6	306
+Woodsholea
+6	1086
+Helcococcus
+6	324
+Luteibacter
+6	124
+Methylohalobius
+6	796
+Labrenzia
+6	119
+Uruburuella
+6	234
+Roseibaca
+6	119
+Roseisalinus
+6	119
+Pseudorhodoferax
+6	50
+Eggerthia
+6	297
+Adhaeribacter
+6	429
+Jonesiaceae
+5	54
+Jonesia
+6	1772
+Mariniflexile
+6	306
+Kingella
+6	234
+Rhodovarius
+6	104
+Atopococcus
+6	448
+Thalassobacillus
+6	148
+Microcella
+6	57
+Suttonella
+6	1489
+Aquiflexum
+6	636
+Nereida
+6	119
+Sanguibacteraceae
+5	54
+Sanguibacter
+6	1783
+Haliscomenobacter
+6	485
+Alkaliflexus
+6	836
+Aurantimonadaceae
+5	112
+Aurantimonas
+6	1787
+Hoeflea
+6	1021
+Xenorhabdus
+6	64
+Myxococcaceae
+5	181
+Corallococcus
+6	1791
+Acaricomes
+6	398
+Byssovorax
+6	1586
+Rubellimicrobium
+6	119
+Catellicoccus
+6	448
+Actinospicaceae
+5	54
+Actinospica
+6	1797
+Bilophila
+6	543
+Geodermatophilaceae
+5	54
+Modestobacter
+6	1800
+Belnapia
+6	104
+Yangia
+6	119
+Thalassobius
+6	119
+Rubrivivax
+6	116
+Rhodovulum
+6	119
+Limnohabitans
+6	50
+Phyllobacterium
+6	1021
+Stigmatella
+6	1584
+Thiorhodococcus
+6	187
+Larkinella
+6	429
+Spirosoma
+6	429
+Polaromonas
+6	50
+Halovivax
+6	75
+Rhodoblastus
+6	474
+Pontibacter
+6	429
+Vulcanibacillus
+6	148
+Empedobacter
+6	306
+Herminiimonas
+6	121
+Paucisalibacillus
+6	148
+Spongiispira
+6	107
+Spongiibacter
+5	10
+Brucella
+6	848
+Bryobacter
+4	1186
+Zavarzinella
+6	1570
+Schlesneria
+6	1570
+Ktedonobacteraceae
+5	930
+Ktedonobacter
+6	1827
+Pseudochrobactrum
+6	848
+Rhodobium
+6	1050
+Rhodoluna
+6	57
+Aspromonas
+6	124
+Arenimonas
+6	124
+Massilia
+6	121
+Pelosinus
+6	46
+Halochromatium
+6	187
+Phycicola
+6	57
+Bhargavaea
+6	511
+Salirhabdus
+6	148
+Marmoricola
+6	476
+Gulbenkiania
+6	234
+Paludibacterium
+6	234
+Wohlfahrtiimonas
+6	124
+Deefgea
+6	234
+Undibacterium
+6	121
+Rhodobacter
+6	119
+Lapillicoccus
+6	300
+Allochromatium
+6	187
+Cereibacter
+6	119
+Geminicoccus
+5	444
+Defluviimonas
+6	119
+Aquisalimonas
+6	1146
+Pseudosphingobacterium
+6	425
+Jiangellaceae
+5	54
+Jiangella
+6	1854
+Elusimicrobia
+2	7
+Elusimicrobia
+3	1856
+Elusimicrobiales
+4	1857
+Elusimicrobiaceae
+5	1858
+Elusimicrobium
+6	1859
+Algibacter
+6	306
+Salsuginibacillus
+6	148
+Humibacter
+6	57
+Maribacter
+6	306
+Chromatocurvus
+6	414
+Anderseniella
+6	1050
+Eudoraea
+6	306
+Ekhidna
+6	429
+Enterorhabdus
+6	160
+Oceaniserpentilla
+6	107
+Thiophaeococcus
+6	187
+Kiloniellales
+4	102
+Kiloniellaceae
+5	1872
+Kiloniella
+6	1873
+Thermoflavifilum
+6	427
+Pyrinomonas
+4	1190
+Biostraticola
+6	64
+Rivibacter
+6	116
+Nakamurellaceae
+5	54
+Nakamurella
+6	1879
+Ancylobacter
+6	577
+Phaeospirillum
+6	393
+Clavibacter
+6	57
+Singulisphaera
+6	1570
+Gordonibacter
+6	160
+Telmatobacter
+4	998
+Leisingera
+6	119
+Nautella
+6	119
+Sediminibacillus
+6	148
+Aquisalibacillus
+6	148
+Desmospora
+6	358
+Ectothiorhodospira
+6	1146
+Acidiplasma
+6	1564
+Acidisoma
+6	104
+Psychrobacillus
+6	511
+Tahibacter
+6	124
+Deinobacterium
+6	468
+Pleionea
+5	10
+Thiolapillus
+5	10
+Quatrionicoccus
+6	231
+Halonatronum
+6	1317
+Teredinibacter
+6	1055
+Clostridium_XlVb
+6	128
+Thermovenabulum
+6	525
+Thermopolyspora
+6	85
+Salinispora
+6	91
+Lentisphaeria
+3	1008
+Victivallales
+4	1907
+Victivallaceae
+5	1908
+Victivallis
+6	1909
+Clostridiales_Incertae_Sedis_XVI
+5	127
+Carboxydocella
+6	1911
+Macrococcus
+6	144
+Zooshikella
+6	632
+Kerstersia
+6	146
+Kinneretia
+6	50
+Neptuniibacter
+6	107
+Bermanella
+6	107
+Pseudoflavonifractor
+6	155
+Ferrithrix
+6	824
+Acidicaldus
+6	104
+Schlegelella
+6	50
+Brachyspiraceae
+5	259
+Brachyspira
+6	1923
+Geothermobacter
+6	1083
+Tepidibacter
+6	274
+Peptostreptococcus
+6	274
+Aeriscardovia
+6	100
+Garciella
+6	194
+Phaeobacter
+6	119
+Fulvimarina
+6	1787
+Desulfatibacillum
+6	540
+Geopsychrobacter
+6	1083
+Formosa
+6	306
+Thalassotalea
+6	31
+Kordia
+6	306
+Methanococcus
+6	368
+Methanolacinia
+6	326
+Aestuariibacter
+6	414
+Volucribacter
+6	1199
+Acidobacteria_Gp26
+3	169
+Gp26
+4	1941
+Yaniella
+6	398
+Ulvibacter
+6	306
+Chitinibacter
+6	234
+Arsenophonus
+6	64
+Akkermansia
+6	813
+Guggenheimella
+6	1194
+Xylanibacterium
+6	268
+Scardovia
+6	100
+Paraeggerthella
+6	160
+Methanohalophilus
+6	776
+Turneriella
+6	762
+Ethanoligenens
+6	155
+Ectothiorhodosinus
+6	1146
+Methylobacillus
+6	623
+Alkalibacter
+6	194
+Tenuibacillus
+6	148
+Salinibacillus
+6	148
+Oribacterium
+6	128
+Parvimonas
+6	324
+Chitinimonas
+6	240
+Cryptanaerobacter
+6	313
+Mahella
+6	880
+Thermoanaerobacterium
+6	525
+Soehngenia
+6	324
+Myceligenerans
+6	268
+Coxiellaceae
+5	657
+Aquicella
+6	1968
+Aggregatibacter
+6	1199
+Avibacterium
+6	1199
+Bibersteinia
+6	1199
+Hydrocarboniphaga
+6	587
+Anaerospora
+6	46
+Klugiella
+6	57
+Trabulsiella
+6	64
+Pseudoduganella
+6	121
+Serinicoccus
+6	300
+Parvibaculum
+6	1050
+Mucispirillum
+6	460
+Lentisphaerales
+4	1907
+Lentisphaeraceae
+5	1981
+Lentisphaera
+6	1982
+Oceanicola
+6	119
+Pectinatus
+6	46
+Intestinibacter
+6	274
+Poribacteria
+2	7
+Methylovorus
+6	623
+Acetanaerobacterium
+6	155
+Halonotius
+6	319
+Natronomonas
+6	72
+Cellulosimicrobium
+6	268
+Nicoletella
+6	1199
+Endomicrobia
+3	1856
+Candidatus_Endomicrobium
+4	1994
+Paucibacter
+6	116
+Thermosinus
+6	46
+Salipiger
+6	119
+Verrucosispora
+6	91
+Pilibacter
+6	162
+Cyclobacterium
+6	636
+Millisia
+6	59
+Anaerosporobacter
+6	128
+Desulfitibacter
+6	1254
+Listeriaceae
+5	143
+Brochothrix
+6	2005
+Aquimonas
+6	124
+Desulfurispora
+6	313
+Salinimonas
+6	414
+Pontibacillus
+6	148
+Silanimonas
+6	124
+Granulicoccus
+6	166
+Nitrincola
+6	107
+Petrimonas
+6	310
+Catabacteriaceae
+5	127
+Catabacter
+6	2015
+Pibocella
+6	306
+Balneola
+6	427
+Hellea
+6	1086
+Haliea
+6	414
+Eionea
+5	10
+Psychrilyobacter
+6	962
+Thermincola
+6	1254
+Gramella
+6	306
+Roseivirga
+6	373
+Segniliparaceae
+5	54
+Segniliparus
+6	2026
+Citreicella
+6	119
+Aminiphilus
+6	1016
+Capnocytophaga
+6	306
+Martelella
+6	1787
+Stackebrandtia
+6	1124
+Bizionia
+6	306
+Syntrophobacter
+6	1332
+Tepidimicrobium
+6	324
+Thioclava
+6	119
+Haloquadratum
+6	319
+Hahella
+6	632
+Sporacetigenium
+6	274
+Yeosuana
+6	306
+Kordiimonadaceae
+5	1132
+Kordiimonas
+6	2041
+Subsaximicrobium
+6	306
+Subsaxibacter
+6	306
+Lacinutrix
+6	306
+Pusillimonas
+6	146
+Thermosediminibacter
+6	525
+Leptonema
+6	762
+Flavonifractor
+6	155
+Proteiniphilum
+6	310
+Lucibacterium
+6	18
+Caldalkalibacillus
+6	336
+Pseudomonadales_incertae_sedis
+5	136
+Dasania
+6	2053
+Glaciecola
+6	414
+Granulibacter
+6	104
+Marinococcus
+6	148
+Quadrisphaera
+6	55
+Desulfuromusa
+6	1425
+Thorsellia
+6	64
+Marinimicrobium
+6	414
+Spirillaceae
+5	387
+Spirillum
+6	2062
+Leadbetterella
+6	429
+Korarchaeota
+2	2
+Candidatus_Korarchaeum
+3	2065
+Melissococcus
+6	162
+Fervidobacterium
+6	283
+Denitratisoma
+6	231
+Gaetbulibacter
+6	306
+Dermacoccus
+6	891
+Sandarakinorhabdus
+6	197
+Maribius
+6	119
+Acidianus
+6	152
+Prolixibacter
+6	834
+Palleronia
+6	119
+Francisellaceae
+5	342
+Francisella
+6	2077
+Methanococcoides
+6	776
+Saccharofermentans
+6	155
+Shimia
+6	119
+Lutibacter
+6	306
+Citreimonas
+6	119
+Halarsenatibacter
+6	255
+Gaetbulimicrobium
+6	306
+Rhodopirellula
+6	1570
+Dehalococcoidia
+3	351
+Dehalococcoidales
+4	2087
+Dehalococcoidaceae
+5	2088
+Dehalococcoides
+6	2089
+SAR11
+4	102
+Candidatus_Pelagibacter
+5	2091
+Chlorobium
+6	1330
+GpIIb
+5	1160
+Methanosphaera
+6	516
+Nitrosospira
+6	388
+Nitrosococcus
+6	187
+Pelobacter
+6	1425
+Salinibacter
+6	989
+Rhodospirillum
+6	393
+Syntrophus
+6	1171
+Rhodoferax
+6	50
+Candidatus_Koribacter
+4	998
+Cytophaga
+6	429
+Magnetococcales
+4	102
+Magnetococcaceae
+5	2105
+Magnetococcus
+6	2106
+Candidatus_Solibacter
+4	1186
+Acidothermaceae
+5	54
+Acidothermus
+6	2109
+Pyrodictiaceae
+5	533
+Hyperthermus
+6	2111
+Chloroflexaceae
+5	1266
+Roseiflexus
+6	2113
+Thaumarchaeota
+2	2
+Nitrosopumilales
+3	2115
+Nitrosopumilaceae
+4	2116
+Nitrosopumilus
+5	2117
+Prosthecochloris
+6	1330
+Oligotropha
+6	474
+Dictyoglomi
+2	7
+Dictyoglomia
+3	2121
+Dictyoglomales
+4	2122
+Dictyoglomaceae
+5	2123
+Dictyoglomus
+6	2124
+Chloroflexus
+6	2113
+Anaeromyxobacter
+6	1584
+Acidobacterium
+4	998
+Sebaldella
+6	1364
+Streptobacillus
+6	1364
+Ammonifex
+6	210
+Thermanaerovibrio
+6	1016
+Pirellula
+6	1570
+Croceibacter
+6	306
+Methylotenera
+6	623
+Ignisphaera
+6	534
+Acetohalobium
+6	1317
+Methanoplanus
+6	326
+Gallionella
+6	1093
+Methanothermaceae
+5	515
+Methanothermus
+6	2140
+Rhodomicrobium
+6	189
+Sulfuricurvum
+6	483
+Weeksella
+6	306
+Syntrophobotulus
+6	1254
+Amycolicicoccus
+6	666
+Fervidicoccales
+4	78
+Fervidicoccaceae
+5	2147
+Fervidicoccus
+6	2148
+Candidatus_Carsonella
+5	10
+Spiribacter
+6	1146
+Salinispira
+6	260
+Nitrososphaerales
+3	2115
+Nitrososphaeraceae
+4	2153
+Nitrososphaera
+5	2154
+Woesearchaeota
+2	2
+Woesearchaeota_Incertae_Sedis_AR15
+3	2156
+Woesearchaeota_Incertae_Sedis_AR20
+3	2156
+Cloacibacillus
+6	1016
+Cloacimonetes
+2	7
+Candidatus_Cloacamonas
+3	2160
+Mycoplana
+6	848
+Rhizorhapis
+6	197
+Duganella
+6	121
+Brachymonas
+6	50
+Rhodothalassium
+6	119
+Rhodovibrio
+6	393
+Rhodocyclus
+6	231
+Hydrogenobaculum
+6	290
+Metallosphaera
+6	152
+Afifella
+6	1050
+Orientia
+6	1348
+Natronococcus
+6	75
+Abiotrophia
+6	1067
+Spirilliplanes
+6	91
+Couchioplanes
+6	91
+Sulfurisphaera
+6	152
+Stygiolobus
+6	152
+Chlamydiaceae
+5	1231
+Chlamydia
+6	2179
+Chlamydophila
+6	2179
+Paracraurococcus
+6	104
+Craurococcus
+6	104
+Roseivivax
+6	119
+Roseibium
+6	119
+Rubrimonas
+6	119
+Hydrogenovibrio
+6	574
+Acidisphaera
+6	104
+Rhodopila
+6	104
+Natronobacterium
+6	75
+Pseudorhodobacter
+6	119
+Ahrensia
+6	119
+Stappia
+6	119
+Parascardovia
+6	100
+Psychroserpens
+6	306
+Aquitalea
+6	234
+Oceanospirillales_incertae_sedis
+5	106
+Salicola
+6	2197
+Trueperaceae
+5	467
+Truepera
+6	2199
+Fontibacillus
+6	332
+Geodermatophilus
+6	1800
+Pseudolabrys
+6	577
+Listeria
+6	2005
+Desulfohalobium
+6	722
+Desulfosalsimonas
+6	540
+Thermovirga
+6	1016
+Halovibrio
+6	236
+Halospina
+6	632
+Fabibacter
+6	373
+Goodfellowiella
+6	94
+Amorphus
+6	655
+Clostridium_XVIII
+6	297
+Lactonifactor
+6	128
+Ponticoccus
+6	119
+Flectobacillus
+6	429
+Rhodonellum
+6	429
+Gracilibacter
+6	609
+Methylosoma
+6	796
+Pseudodonghicola
+6	119
+Desulfovermiculus
+6	722
+Desulfatirhabdium
+6	540
+Costertonia
+6	306
+Sinobaca
+6	148
+Propionicicella
+6	166
+Methanogenium
+6	326
+Pelagibaca
+6	119
+Echinicola
+6	636
+Flagellimonas
+6	306
+Croceitalea
+6	306
+Zobellella
+6	205
+Brooklawnia
+6	166
+Pseudokineococcus
+6	55
+Blastococcus
+6	1800
+Desulfovirgula
+6	210
+Niastella
+6	427
+Yonghaparkia
+6	57
+Siccibacter
+6	64
+Franconibacter
+6	64
+Leeia
+6	234
+Albimonas
+6	119
+Tepidicella
+6	50
+Desulfoglaeba
+6	1332
+Geoalkalibacter
+6	1083
+Chitinilyticum
+6	234
+Candidatus_Anammoxoglobus
+6	1434
+Verminephrobacter
+6	50
+Ruaniaceae
+5	54
+Ruania
+6	2248
+Bowmanella
+6	414
+Haladaptatus
+6	72
+Phycicoccus
+6	300
+Caenimonas
+6	50
+Flaviramulus
+6	306
+Kribbia
+6	300
+Aureimonas
+6	1787
+Moryella
+6	128
+Ferritrophicales
+4	48
+Ferritrophicaceae
+5	2258
+Ferritrophicum
+6	2259
+Cohaesibacteraceae
+5	112
+Cohaesibacter
+6	2261
+Sideroxydans
+6	1093
+Thalassococcus
+6	119
+Pelagibius
+6	393
+Hansschlegelia
+6	113
+Natranaerobiales
+4	126
+Natranaerobiaceae
+5	2267
+Natranaerobius
+6	2268
+Haloplanus
+6	319
+Halotalea
+6	236
+Zhouia
+6	306
+Methyloversatilis
+6	231
+Niabella
+6	427
+Parapusillimonas
+6	146
+Thiohalospira
+6	1146
+Thiohalorhabdus
+5	10
+Thiohalophilus
+6	728
+Algiphilaceae
+5	123
+Algiphilus
+6	2279
+Armatimonadetes_gp7
+3	604
+Noviherbaspirillum
+6	121
+Pseudophaeobacter
+6	119
+Thermophagus
+6	836
+Frondihabitans
+6	57
+Edaphobacter
+4	998
+Labedella
+6	57
+Puniceicoccus
+6	733
+Salinimicrobium
+6	306
+Wenxinia
+6	119
+Modicisalibacter
+6	236
+Geosporobacter
+6	1676
+Aquincola
+6	116
+Terriglobus
+4	998
+Perlucidibaca
+6	178
+Inhella
+6	116
+Piscinibacter
+6	116
+Nisaea
+6	393
+Uliginosibacterium
+6	231
+Chrysiogenetes
+2	7
+Chrysiogenetes
+3	2300
+Chrysiogenales
+4	2301
+Chrysiogenaceae
+5	2302
+Desulfurispirillum
+6	2303
+Donghicola
+6	119
+Skermanella
+6	393
+Pseudoruegeria
+6	119
+Parapedobacter
+6	425
+Psychrosinus
+6	46
+Archangium
+6	1584
+Cystobacter
+6	1584
+Myxococcus
+6	1791
+Pyxidicoccus
+6	1791
+Hyalangium
+6	1584
+Methermicoccaceae
+5	395
+Methermicoccus
+6	2315
+Methylonatrum
+5	10
+Gilvimarinus
+5	10
+Desulfatiferula
+6	540
+Aestuariimicrobium
+6	166
+Methylohalomonas
+5	10
+Thiohalomonas
+6	1146
+Fulvivirga
+6	373
+Andreprevotia
+6	234
+Desulfocurvus
+6	543
+Chlorarachniophyceae
+5	22
+Proteiniclasticum
+6	192
+Zunongwangia
+6	306
+Actinopolysporaceae
+5	54
+Actinopolyspora
+6	2329
+Proteus
+6	64
+Cosenzaea
+6	64
+Celerinatantimonadaceae
+5	30
+Celerinatantimonas
+6	2333
+Maritimibacter
+6	119
+Haloactinospora
+6	920
+Howardella
+6	128
+Aquisphaera
+6	1570
+Venenivibrio
+6	390
+Clostridiisalibacter
+6	1280
+Cronobacter
+6	64
+Sediminibacterium
+6	427
+Bacillariophyta
+5	22
+Caenispirillum
+6	393
+Natronocella
+6	1146
+Lutimonas
+6	306
+Clostridiales_incertae_sedis
+5	127
+Proteiniborus
+6	2347
+Filomicrobium
+6	189
+Litoricolaceae
+5	106
+Litoricola
+6	2350
+Calidifontibacter
+6	891
+Pelagicola
+6	119
+Thalassobaculum
+6	393
+Cucumibacter
+6	189
+Stenoxybacter
+6	234
+Hyunsoonleella
+6	306
+Georgfuchsia
+6	231
+Chryseoglobus
+6	57
+Cellulosilyticum
+6	128
+Natronincola
+6	321
+Nitriliruptorales
+4	53
+Nitriliruptoraceae
+5	2362
+Nitriliruptor
+6	2363
+Dethiobacter
+6	2268
+Desulfurivibrio
+6	545
+Jonquetella
+6	1016
+Desulfoconvexum
+6	540
+Acidobacteria_Gp12
+3	169
+Gp12
+4	2369
+Acidobacteria_Gp20
+3	169
+Gp20
+4	2371
+Acidobacteria_Gp24
+3	169
+Gp24
+4	2373
+Acidobacteria_Gp14
+3	169
+Gp14
+4	2375
+Acidobacteria_Gp16
+3	169
+Gp16
+4	2377
+Acidobacteria_Gp19
+3	169
+Gp19
+4	2379
+Pseudoxanthobacter
+6	577
+Frigoribacterium
+6	57
+Lysinimonas
+6	57
+Porticoccus
+5	10
+Pseudacidovorax
+6	50
+Fodinicola
+6	316
+Zetaproteobacteria
+3	8
+Mariprofundales
+4	2387
+Mariprofundaceae
+5	2388
+Mariprofundus
+6	2389
+Granulosicoccaceae
+5	186
+Granulosicoccus
+6	2391
+Robiginitomaculum
+6	1086
+Caldanaerobius
+6	210
+Elioraea
+5	103
+Caldanaerovirga
+6	525
+Daeguia
+6	848
+Halomicrobium
+6	72
+Pelagibacterium
+6	189
+Antarcticimonas
+6	306
+Caldimicrobium
+6	1417
+Gryllotalpicola
+6	57
+Candidatus_Scalindua
+6	1434
+Insolitispirillum
+6	393
+Croceicoccus
+6	250
+Pseudogulbenkiania
+6	234
+Rudanella
+6	429
+Mangrovibacter
+6	64
+Henriciella
+6	1086
+Joostella
+6	306
+Actibacter
+6	306
+Gracilimonas
+6	427
+Haloplasmatales
+4	1075
+Haloplasmataceae
+5	2413
+Haloplasma
+6	2414
+Thiodictyon
+6	187
+Rhodocytophaga
+6	429
+Devriesea
+6	976
+Roseococcus
+6	104
+Saccharibacillus
+6	332
+Stakelama
+6	197
+Thioalkalibacter
+6	559
+Bombiscardovia
+6	100
+Natronobacillus
+6	148
+Methanosphaerula
+6	571
+Hydrogenoanaerobacterium
+6	155
+Pseudohaliea
+5	10
+Seohaeicola
+6	119
+Sorangium
+6	1586
+Nosocomiicoccus
+6	144
+Jhaorihella
+6	119
+Lutaonella
+6	306
+Maritimimonas
+6	306
+Desulfonatronospira
+6	722
+Pyramidobacter
+6	1016
+Halanaerobaculum
+6	1317
+Chelonobacter
+6	1199
+Natronovirga
+6	2268
+Falsibacillus
+6	217
+Thermovorax
+6	525
+Syntrophaceticus
+6	210
+Butyricicoccus
+6	155
+Salisaeta
+6	989
+Alloactinosynnema
+6	94
+Streptosporangineae_incertae_sedis
+5	54
+Sinosporangium
+6	2445
+Celeribacter
+6	119
+Jejuia
+6	306
+Muriicola
+6	306
+Thermotalea
+6	1676
+Fervidicola
+6	525
+Helcobacillus
+6	976
+Murdochiella
+6	324
+Sciscionella
+6	94
+Marivita
+6	119
+Neiella
+6	1055
+Lacibacter
+6	427
+Ideonella
+6	116
+Rufibacter
+6	429
+Phaselicystidaceae
+5	181
+Phaselicystis
+6	2460
+Jishengella
+6	91
+Sphingomicrobium
+6	197
+Sporosalibacterium
+6	1280
+Salisediminibacterium
+6	345
+Methylorosula
+6	1624
+Oceanotoga
+6	716
+Kistimonas
+6	632
+Sphaerotilus
+6	116
+Marispirillum
+6	393
+Oceanibaculum
+6	393
+Haloglycomyces
+6	1124
+Arachidicoccus
+6	427
+Methylogaea
+6	796
+Elstera
+6	393
+Dehalococcoidetes
+3	351
+Dehalogenimonas
+4	2476
+Bacteroidales_incertae_sedis
+5	214
+Phocaeicola
+6	2478
+Marinactinospora
+6	920
+Aliidiomarina
+6	1052
+Tistlia
+6	393
+Mameliella
+6	119
+Rudaea
+6	124
+Acidicapsa
+4	998
+Desertibacter
+6	393
+Thioalbus
+6	1146
+Flavihumibacter
+6	427
+Rubribacterium
+6	119
+Magnetospira
+6	393
+Parasegetibacter
+6	427
+Sediminimonas
+6	119
+Fodinibacter
+6	300
+Salinarimonas
+6	474
+Halogranum
+6	319
+Halopelagius
+6	319
+Tersicoccus
+6	398
+Aliagarivorans
+6	414
+Sporolituus
+6	46
+Siphonobacter
+6	429
+Ferruginibacter
+6	427
+Hoyosella
+6	666
+Roseicitreum
+6	119
+Methanosalsum
+6	776
+Litorimonas
+6	1086
+Hwanghaeicola
+6	119
+Sedimentitalea
+6	119
+Salinihabitans
+6	119
+Shimwellia
+6	64
+Allobacillus
+6	148
+Pseudoteredinibacter
+6	1055
+Spongiibacterium
+6	306
+Fodinicurvata
+6	393
+Meridianimaribacter
+6	306
+Bacteroidetes_incertae_sedis
+3	212
+Marinifilum
+4	2515
+Aidingimonas
+6	236
+Wandonia
+6	421
+Thermolongibacillus
+6	217
+Lentibacter
+6	119
+Alkalibaculum
+6	194
+Dongia
+6	393
+Gangjinia
+6	306
+Basfia
+6	1199
+Gaetbulicola
+6	119
+Desulfonatronovibrio
+6	722
+Fervidicella
+6	192
+Thiohalobacter
+6	187
+Desulfosoma
+6	1332
+Yuhushiella
+6	94
+Amnibacterium
+6	57
+Yimella
+6	891
+Bauldia
+6	655
+Agaricicola
+6	119
+Ruminococcus2
+6	128
+Orbales
+4	9
+Orbaceae
+5	2536
+Orbus
+6	2537
+Rhodothermus
+6	989
+Hasllibacter
+6	119
+Jeongeupia
+6	234
+Soonwooa
+6	306
+Negativicoccus
+6	46
+Streptohalobacillus
+6	148
+Desulfobotulus
+6	540
+Desulfitispora
+6	1254
+Paralcaligenes
+6	146
+Ornithinibacter
+6	300
+Flindersiella
+6	476
+Paraherbaspirillum
+6	121
+Cellulosibacter
+6	155
+Vibrionimonas
+6	427
+Enteractinococcus
+6	398
+Planktotalea
+6	119
+Pelagimonas
+6	119
+Olleya
+6	306
+Zhongshania
+5	10
+Pricia
+6	306
+Hephaestia
+6	197
+Eoetvoesia
+6	146
+Haloactinopolyspora
+6	1854
+Haloactinobacterium
+6	2248
+Bavariicoccus
+6	162
+Aquipuribacter
+6	300
+Hafnia
+6	64
+Ponticaulis
+6	1086
+Rugosimonospora
+6	91
+Chryseomicrobium
+6	511
+Phaeochromatium
+6	187
+Alteribacillus
+6	217
+Methylovirgula
+6	1624
+Indibacter
+6	636
+Gallaecimonas
+5	10
+Nitritalea
+6	636
+Motilibacter
+5	54
+Labedaea
+6	94
+Lutibaculum
+6	1050
+Pseudofulvimonas
+6	124
+Allocatelliglobosispora
+6	91
+Paenalcaligenes
+6	146
+Phaeovibrio
+6	393
+Cecembia
+6	636
+Murinocardiopsis
+6	920
+Cesiribacter
+6	373
+Fontibacter
+6	636
+Camelimonas
+6	1624
+Microaerobacter
+6	336
+Auraticoccus
+6	166
+Auritidibacter
+6	398
+Euzebyella
+6	306
+Candidimonas
+6	146
+Kroppenstedtia
+6	358
+Hydrotalea
+6	427
+Oceanibacterium
+6	779
+Amantichitinum
+6	234
+Bryocella
+4	998
+Shivajiella
+6	636
+Methyloferula
+6	1624
+Mariniradius
+6	636
+Methanohalobium
+6	776
+Dichotomicrobium
+6	1050
+Terrisporobacter
+6	274
+Aquabacter
+6	189
+Lachnospira
+6	128
+Oxalobacter
+6	121
+Clostridium_XII
+6	324
+Acetivibrio
+6	155
+Youngiibacter
+6	192
+Tissierella
+6	324
+Thermohydrogenium
+6	227
+Tardiphaga
+6	474
+Desulfurellales
+4	180
+Desulfurellaceae
+5	2612
+Hippea
+6	2613
+Imtechella
+6	306
+Chryseolinea
+5	372
+Albirhodobacter
+6	119
+Naumannella
+6	166
+Defluviitoga
+6	716
+Nitrospinae
+2	7
+Nitrospinia
+3	2620
+Nitrospinales
+4	2621
+Nitrospinaceae
+5	2622
+Nitrospina
+6	2623
+Parvarchaeota
+2	2
+Candidatus_Parvarchaeum
+3	2625
+Nanohaloarchaeota
+2	2
+Candidatus_Nanosalina
+3	2627
+Fibrella
+6	429
+Fretibacterium
+6	1016
+Litorimicrobium
+6	119
+Rudaeicoccus
+6	891
+Catenovulum
+6	414
+Breoghania
+5	444
+Chiayiivirga
+6	124
+Halorussus
+6	72
+Halobellus
+6	319
+Halorientalis
+6	72
+Fimbriimonadia
+3	604
+Fimbriimonadales
+4	2639
+Fimbriimonadaceae
+5	2640
+Fimbriimonas
+6	2641
+Fibrisoma
+6	429
+Ferrovibrio
+6	779
+Haloechinothrix
+6	94
+Planktomarina
+6	119
+Parvibacter
+6	160
+Marisediminicola
+6	57
+Leclercia
+6	64
+Diplorickettsia
+6	1968
+Natranaerovirga
+5	127
+Desulfurispira
+6	2303
+Natronoflexus
+6	836
+Spinactinospora
+6	920
+Ohtaekwangia
+5	372
+Terrimicrobium
+4	1180
+Tepidamorphus
+6	1050
+Plasticicumulans
+5	10
+Jahnella
+6	1586
+Polyangium
+6	1586
+Halolamina
+6	319
+Minicystis
+6	1586
+Salinactinospora
+6	920
+Litoribacter
+6	429
+Nitrospirillum
+6	393
+Halanaerobacter
+6	1317
+Meniscus
+6	834
+Serpens
+6	137
+Pedomicrobium
+6	189
+Desulfonatronobacter
+6	540
+Bisgaardia
+6	1199
+Flavitalea
+6	427
+Jeotgalibaca
+6	448
+Chitinivorax
+4	48
+Phytomonospora
+6	91
+Tolumonas
+6	205
+Litoribacillus
+6	107
+Glaciimonas
+6	121
+Natroniella
+6	1317
+Pisciglobus
+6	448
+Gemmiger
+6	155
+Acetoanaerobium
+6	274
+Corallomonas
+6	107
+Pseudahrensia
+6	1021
+Anaerorhabdus
+6	215
+Brassicibacter
+6	1280
+Paraperlucidibaca
+6	178
+Alpinimonas
+6	57
+Chungangia
+6	511
+Haloarchaeobius
+6	72
+Halorubellus
+6	72
+Salinigranum
+6	319
+Necropsobacter
+6	1199
+Brevinemataceae
+5	259
+Brevinema
+6	2694
+Domibacillus
+6	217
+Heliophilum
+6	503
+Angiococcus
+6	1791
+Chlorobaculum
+6	1330
+Sporohalobacter
+6	1317
+Thermonema
+6	373
+Pseudarcicella
+6	429
+Actibacterium
+6	119
+Hungatella
+6	128
+Fonticella
+6	192
+Cruoricaptor
+6	306
+Phreatobacter
+6	655
+Falsirhodobacter
+6	119
+Barrientosiimonas
+6	891
+Fluviimonas
+6	429
+Lacibacterium
+6	393
+Seminibacterium
+6	1199
+Vallitalea
+5	127
+Mesotoga
+6	972
+Pseudobacteroides
+6	155
+Lunatimonas
+6	636
+Mongoliicoccus
+6	636
+Lautropia
+6	240
+Pelistega
+6	146
+Methyloparacoccus
+6	796
+Spelaeicoccus
+6	1046
+Larsenimonas
+6	236
+Limisphaera
+4	1203
+Falsiporphyromonas
+6	310
+Variibacter
+6	655
+Ercella
+6	155
+Canibacter
+6	57
+Mucinivorans
+6	787
+Vitreoscilla
+6	234
+Geotoga
+6	716
+Vampirovibrio
+6	1635
+Nitrococcus
+6	1146
+Rugamonas
+6	121
+Ferrovales
+4	48
+Ferrovaceae
+5	2734
+Ferrovum
+6	2735
+Desulfuribacillus
+6	336
+Stomatobaculum
+6	128
+Mongoliitalea
+6	636
+Fodinibius
+5	424
+Tribolium
+2	1148
+Salinarchaeum
+6	72
+Halovenus
+6	72
+Halohasta
+6	319
+Siansivirga
+6	306
+Coxiella
+6	1968
+Snuella
+6	306
+Flavivirga
+6	306
+Lacihabitans
+6	429
+Otariodibacter
+6	1199
+Thermosyntropha
+6	227
+Rhabdothermus
+6	441
+Acetatifactor
+6	128
+Defluviitaleaceae
+5	127
+Defluviitalea
+6	2754
+Macellibacteroides
+6	310
+Schleiferiaceae
+5	305
+Schleiferia
+6	2757
+Alkalitalea
+6	836
+Longimycelium
+6	94
+Corallibacter
+6	306
+Rosenbergiella
+6	64
+Eilatimonas
+4	102
+Natranaerobaculum
+6	2268
+Postechiella
+6	306
+Sagittula
+6	119
+Phorcysia
+6	521
+Melghirimyces
+6	358
+Tabrizicola
+6	119
+Saliterribacillus
+6	148
+Phaeocystidibacter
+6	421
+Faecalicoccus
+6	297
+Anaerosalibacter
+6	324
+Sandaracinaceae
+5	181
+Sandaracinus
+6	2774
+Brockia
+6	210
+Extensimonas
+6	50
+Oceanitalea
+6	864
+Sinobacterium
+6	107
+Desulfobaculum
+6	543
+Mangroviflexus
+6	836
+Pleomorphobacterium
+6	119
+Actinotalea
+6	582
+Fuchsiella
+6	1317
+Arhodomonas
+6	1146
+Pseudoscardovia
+6	100
+Salimesophilobacter
+6	1676
+Humitalea
+6	104
+Methanomassiliicoccales
+4	740
+Methanomassiliicoccaceae
+5	2789
+Methanomassiliicoccus
+6	2790
+Metallibacterium
+6	124
+Caloribacterium
+6	210
+Chitinivibrionia
+3	1723
+Chitinivibrionales
+4	2794
+Chitinivibrionaceae
+5	2795
+Chitinivibrio
+6	2796
+Thermosulfurimonas
+6	1417
+Gaiellales
+4	53
+Gaiellaceae
+5	2799
+Gaiella
+6	2800
+Blastopirellula
+6	1570
+Aestuariibaculum
+6	306
+Profundibacterium
+6	119
+Deltaproteobacteria_incertae_sedis
+4	180
+Deferrisoma
+5	2805
+Senegalimassilia
+6	160
+Halopenitus
+6	319
+Compostimonas
+6	57
+Marininema
+6	358
+Aquihabitans
+6	826
+Namhaeicola
+6	306
+Rivicola
+6	234
+Seleniivibrio
+6	460
+Ewingella
+6	64
+Moellerella
+6	64
+Dichelobacter
+6	1489
+Morococcus
+6	234
+Thermocatellispora
+6	85
+Mooreiaceae
+5	372
+Mooreia
+6	2820
+Catalimonadaceae
+5	372
+Catalinimonas
+6	2822
+Romboutsia
+6	274
+Fontimonas
+6	587
+Texcoconibacillus
+6	345
+Limimonas
+6	393
+Nibribacter
+6	429
+Nibrella
+6	429
+Sinomicrobium
+6	306
+Thermoactinospora
+6	85
+Litoribaculum
+6	306
+Taonella
+6	779
+Luteivirga
+5	372
+Fulvitalea
+6	373
+Aureivirga
+6	306
+Coprobacter
+6	310
+Paenirhodobacter
+6	119
+Flaviflexus
+6	811
+Telmatocola
+6	1570
+Pseudofulvibacter
+6	306
+Nafulsella
+6	373
+Epibacterium
+6	119
+Marinicauda
+6	1086
+Xiangella
+6	91
+Galenea
+6	574
+Ciceribacter
+6	611
+Salinirubrum
+6	72
+Ornatilinea
+6	354
+Melioribacter
+6	901
+Huanghella
+6	429
+Blastocatella
+4	1190
+Allonocardiopsis
+5	54
+Nitrolancea
+6	1696
+Jatrophihabitans
+6	316
+Mesoaciditoga
+6	330
+Frederiksenia
+6	1199
+Arcticibacter
+6	425
+Dissulfuribacter
+5	2805
+Endobacter
+6	104
+Asinibacterium
+6	427
+Naasia
+6	57
+Diaminobutyricimonas
+6	57
+Homoserinimonas
+6	57
+Rudaibacter
+6	57
+Homoserinibacter
+6	57
+Pontimonas
+6	57
+Carboxylicivirga
+6	836
+Melaminivora
+6	50
+Saccharicrinis
+6	836
+Tangfeifania
+6	834
+Draconibacterium
+6	834
+Hydrobacter
+6	427
+Conyzicola
+6	57
+Litorilinea
+6	385
+Vulcaniibacterium
+6	124
+Snodgrassella
+6	234
+Oceanirhabdus
+6	192
+Methyloligella
+6	1050
+Hazenella
+6	358
+Litorisediminicola
+6	119
+Arenitalea
+6	306
+Oceanicella
+6	119
+Proteinivoraceae
+5	127
+Proteinivorax
+6	2884
+Rubrivirga
+6	989
+Sungkyunkwania
+6	306
+Aliifodinibius
+5	424
+Gilliamella
+6	2537
+Mangrovimonas
+6	306
+Wenyingzhuangia
+6	306
+Fretibacter
+6	1086
+Lihuaxuella
+6	358
+Puniceibacterium
+6	119
+Echinimonas
+5	30
+Lentilitoribacter
+6	1021
+Garicola
+6	398
+Aquibacter
+6	306
+Robertkochia
+6	306
+Compostibacillus
+6	148
+Cribrihabitans
+6	119
+Thiobacimonas
+6	119
+Basilea
+6	146
+Ichthyenterobacterium
+6	306
+Flavirhabdus
+6	306
+Thermoanaerobaculum
+4	170
+Sodalis
+6	64
+Heliimonas
+6	427
+Pustulibacterium
+6	306
+Hwangdonia
+6	306
+Niveispirillum
+6	393
+Thermotunica
+6	94
+Kallotenuales
+4	1223
+Kallotenuaceae
+5	2913
+Kallotenue
+6	2914
+Diaminobutyricibacter
+6	57
+Galbitalea
+6	57
+Frischella
+6	2537
+Pseudohongiella
+6	2197
+Mangrovibacterium
+6	834
+Geojedonia
+6	306
+Pyrodictium
+6	2111
+Luteibaculum
+6	421
+Youngimonas
+6	119
+Gynuella
+6	2197
+Tepidibacillus
+6	148
+Taibaiella
+6	427
+Falsochrobactrum
+6	848
+Glaciihabitans
+6	57
+Murimonas
+6	128
+Intestinimonas
+6	155
+Sinibacillus
+6	148
+Halocynthiibacter
+6	119
+Psychroglaciecola
+6	498
+Thermoflexia
+3	351
+Thermoflexales
+4	2935
+Thermoflexaceae
+5	2936
+Thermoflexus
+6	2937
+Nioella
+6	119
+Cnuella
+6	427
+Hartmannibacter
+6	655
+Aestuariihabitans
+6	119
+Sabulilitoribacter
+6	306
+Faucicola
+6	178
+Parablastomonas
+6	197
+Jejudonia
+6	306
+Anoxybacter
+5	254
+Imperialibacter
+6	373
+Melghiribacillus
+6	148
+Thermogutta
+6	1570
+Mumia
+6	476
+Oceanococcus
+6	1146
+Rehaibacterium
+6	124
+Halopolyspora
+6	2329
+Vespertiliibacter
+6	1199
+Desulfocarbo
+6	1452
+Pseudocitrobacter
+6	64
+Amphiplicatus
+6	1523
+Thermomicrobiales
+4	1694
+Thermomicrobiaceae
+5	2959
+Thermomicrobium
+6	2960
+Thermorudis
+6	2960
+Aridibacter
+4	1190
+Allosalinactinospora
+6	920
+Halapricum
+6	72
+Rhizorhabdus
+6	197
+Methyloprofundus
+6	796
+Pseudooctadecabacter
+6	119
+Mariniluteicoccus
+6	166
+Hoppeia
+6	306
+Anaerosolibacter
+6	1676
+Cetia
+6	585
+Methylobrevis
+6	655
+Moheibacter
+6	306
+Chishuiella
+6	306
+Hanstruepera
+6	306
+Natribaculum
+6	75
+Aggregicoccus
+6	1791
+Crenobacter
+6	234
+Zhizhongheella
+6	50
+Eisenbergiella
+6	128
+Cricetibacter
+6	1199
+Mesocricetibacter
+6	1199
+Seonamhaeicola
+6	306
+Aestuariispira
+6	393
+Mobilitalea
+6	128
+Parafilimonas
+6	427
+Frigidibacter
+6	119
+Motiliproteus
+6	107
+Boseongicola
+6	119
+Aestuariivita
+6	119
+Pseudopelagicola
+6	119
+Phaeodactylibacter
+6	485
+Litoribrevibacter
+6	107
+Flavimarina
+6	306
+Salinispirillum
+6	1668
+Salinithrix
+6	358
+Roseiarcaceae
+5	112
+Roseiarcus
+6	2998
+Paludibaculum
+4	1186
+Ezakiella
+6	324
+Thiopseudomonas
+6	137
+Bombella
+6	104
+Jiella
+6	1787
+Pseudobacteriovoracaceae
+5	1262
+Pseudobacteriovorax
+6	3005
+Permianibacter
+6	137
+Ascidiaceihabitans
+6	119
+Desulfoprunum
+6	545
+Pseudochelatococcus
+6	1624
+Confluentimicrobium
+6	119
+Litorivivens
+5	10
+Bradymonadales
+4	180
+Bradymonadaceae
+5	3013
+Bradymonas
+6	3014
+Tepidisphaerales
+4	874
+Tepidisphaeraceae
+5	3016
+Tepidisphaera
+6	3017
+Oleiagrimonas
+6	124
+Pseudohalocynthiibacter
+6	119
+Planctomicrobium
+6	1570
+Pacearchaeota
+2	2
+Pacearchaeota_Incertae_Sedis_AR13
+3	3022
+Roseobacter
+6	119
+Heliothrix
+6	2113
+Magnetovibrio
+6	393
+Synergistes
+6	1016
+Saccharococcus
+6	217
+Lawsonia
+6	543
+Rikenella
+6	787
+Halothermothrix
+6	255
+Leptothrix
+6	116
+Faecalitalea
+6	297
+Cycloclasticus
+6	574
+Halobacteroides
+6	1317
+Microbacter
+6	310
+Anaplasmataceae
+5	1347
+Neorickettsia
+6	3037
+Anaeroplasmatales
+4	1075
+Anaeroplasmataceae
+5	3039
+Asteroleplasma
+6	3040
+Anaeroplasma
+6	3040
+Thermoproteus
+6	80
+Gardnerella
+6	100
+Acetitomaculum
+6	128
+Methanomicrobium
+6	326
+Thermochromatium
+6	187
+Holdemanella
+6	297
+Flexistipes
+6	460
+Ehrlichia
+6	3037
+Aquifex
+6	290
+Wolinella
+6	483
+Homo
+2	1148
+Anaplasma
+6	3037
+Candidatus_Calescamantes
+2	7
+Candidatus_Calescibacterium
+3	3055
+Octadecabacter
+6	119
+Thermodesulforhabdus
+6	1332
+Piscirickettsia
+6	574
+Marinimicrobia
+2	7
+Holophagales
+4	803
+Holophagaceae
+5	3061
+Geothrix
+6	3062
+Denitrobacterium
+6	160
+Desulfonema
+6	540
+Thermobispora
+6	94
+Methylosphaera
+6	796
+Simkaniaceae
+5	1231
+Simkania
+6	3068
+Acidimicrobium
+6	824
+Dehalobacter
+6	1254
+Ornithobacterium
+6	306
+Amaricoccus
+6	119
+Microvirgula
+6	234
+Thermofilaceae
+5	79
+Thermofilum
+6	3075
+Propionigenium
+6	962
+Peptococcus
+6	1254
+Gemmata
+6	1570
+Alloiococcus
+6	448
+Plesiomonas
+6	64
+Planctopirus
+6	1570
+Telluria
+6	121
+Coprothermobacter
+6	419
+Caryophanon
+6	511
+Dolosigranulum
+6	448
+Desulfurella
+6	2613
+Asaccharospora
+6	274
+Turicella
+6	61
+Holophaga
+6	3062
+Acidomonas
+6	104
+Oxobacter
+6	192
+Marinovum
+6	119
+Coriobacterium
+6	160
+Thermocrispum
+6	94
+Succiniclasticum
+6	918
+Chrysiogenes
+6	2303
+Nitrospira
+6	225
+Dehalospirillum
+6	694
+Desulforhabdus
+6	1332
+Rhabdochromatium
+6	187
+Catonella
+6	128
+Johnsonella
+6	128
+Leucothrix
+6	343
+Halocella
+6	255
+Phocoenobacter
+6	1199
+Verrucomicrobium
+6	813
+Dermabacter
+6	976
+Paucimonas
+6	240
+Desulfocapsa
+6	545
+Anaerofilum
+6	155
+Sulfophobococcus
+6	534
+Thermobrachium
+6	192
+Thermodiscus
+6	534
+Pyrolobus
+6	2111
+Thermosphaera
+6	534
+Desulfospira
+6	540
+Rhodospira
+6	393
+Desulfofustis
+6	545
+Parachlamydia
+6	1339
+Stetteria
+6	534
+Janthinobacterium
+6	121
+Schwartzia
+6	46
+Bogoriella
+6	864
+Magnetospirillum
+6	393
+Sandaracinobacter
+6	197
+Holdemania
+6	297
+Antarctobacter
+6	119
+Terracoccus
+6	300
+Thiolamprovum
+6	187
+Thiococcus
+6	187
+Carnimonas
+6	236
+Demetria
+6	891
+Ammoniphilus
+6	552
+Oxalophagus
+6	552
+Ruminobacter
+6	916
+Ignavigranum
+6	1067
+Atopobacter
+6	448
+Ferribacterium
+6	231
+Balneatrix
+6	107
+Lonepinella
+6	1199
+Desemzia
+6	448
+Succinimonas
+6	916
+Succinivibrio
+6	916
+Formivibrio
+6	234
+Coenonia
+6	306
+Malonomonas
+6	1425
+Eremococcus
+6	1067
+Ornithinicoccus
+6	300
+Anaerobacter
+6	192
+Desulfonispora
+6	1254
+Beutenbergia
+6	886
+Methylosinus
+6	113
+Aeribacillus
+6	217
+Skermania
+6	59
+Sporobacter
+6	155
+Woesearchaeota_Incertae_Sedis_AR16
+3	2156
+Woesearchaeota_Incertae_Sedis_AR17
+3	2156
+Woesearchaeota_Incertae_Sedis_AR18
+3	2156
+
+2478
+1	1
+4	1
+6	1
+11	2
+16	119
+19	103
+23	9
+28	101
+29	1
+32	13
+35	4
+37	3
+39	2
+41	4
+43	2
+47	11
+51	3
+56	8
+58	94
+60	36
+62	97
+65	13
+66	2
+67	2
+68	18
+73	9
+76	11
+81	1
+82	6
+84	206
+86	37
+88	594
+90	2
+92	3
+93	4
+95	8
+97	7
+98	5
+101	55
+105	7
+108	4
+109	13
+110	1
+111	1
+114	1
+115	5
+117	1
+120	42
+122	4
+125	16
+128	123
+130	7
+131	2
+135	6
+138	167
+139	9
+142	3
+145	64
+147	16
+149	18
+150	9
+153	6
+154	12
+156	19
+158	5
+161	4
+163	50
+164	3
+165	16
+167	1
+168	7
+171	8
+173	1
+174	38
+175	1
+176	10
+177	33
+179	37
+183	2
+184	25
+185	13
+188	1
+190	2
+191	8
+193	129
+195	14
+198	72
+202	3
+203	1
+206	3
+207	29
+208	1
+211	1
+216	42
+218	216
+219	6
+220	2
+221	18
+226	5
+228	1
+229	12
+232	10
+235	6
+237	8
+238	4
+239	1
+241	9
+242	13
+243	3
+246	25
+247	37
+248	4
+249	87
+251	7
+253	5
+256	11
+261	8
+262	23
+264	19
+265	3
+266	16
+267	29
+269	11
+271	14
+272	7
+273	8
+274	38
+275	15
+276	37
+277	3
+278	91
+279	7
+284	8
+285	31
+286	8
+291	3
+292	35
+293	5
+294	4
+297	25
+298	1
+299	1
+301	8
+302	1
+303	27
+307	20
+308	1
+309	3
+311	17
+312	1
+314	5
+315	1
+317	5
+320	12
+322	5
+323	3
+325	1
+327	13
+329	21
+331	6
+333	166
+335	22
+337	1
+338	2
+339	1
+340	76
+341	15
+344	9
+345	26
+346	3
+348	4
+349	42
+350	7
+355	2
+357	13
+359	1
+360	3
+361	16
+362	32
+364	2
+365	1
+369	2
+370	15
+374	2
+375	1
+376	4
+378	2
+379	3
+380	3
+382	51
+386	2
+389	9
+391	5
+392	4
+394	2
+397	3
+399	76
+400	7
+401	3
+406	1
+407	3
+408	16
+409	24
+410	4
+411	2
+412	5
+413	124
+415	3
+416	2
+417	1
+418	2
+420	1
+422	1
+426	2
+428	22
+430	2
+431	4
+432	1
+433	5
+434	3
+435	1
+436	1
+437	2
+442	1
+443	7
+445	2
+447	76
+449	2
+450	11
+452	1
+453	4
+454	2
+455	1
+456	1
+461	4
+462	2
+463	3
+464	2
+465	2
+466	1
+469	55
+472	1
+473	6
+475	8
+477	74
+478	2
+480	4
+484	4
+486	5
+487	2
+488	2
+489	1
+490	5
+491	31
+492	39
+493	2
+494	2
+496	1
+497	1
+499	9
+500	14
+501	31
+502	13
+504	1
+505	6
+506	7
+508	3
+509	10
+510	12
+511	94
+512	6
+513	10
+517	8
+519	1
+522	1
+524	20
+526	1
+527	58
+528	3
+529	1
+530	2
+531	1
+532	1
+535	2
+536	23
+537	1
+538	9
+541	2
+544	63
+546	2
+547	7
+548	9
+549	5
+550	5
+551	20
+553	6
+554	9
+556	3
+558	10
+560	1
+561	2
+562	10
+563	5
+564	19
+565	1
+566	2
+567	10
+568	3
+569	11
+570	14
+572	2
+573	18
+575	10
+576	14
+578	2
+579	6
+580	9
+581	3
+583	23
+586	1
+588	2
+589	1
+590	1
+591	1
+592	48
+593	6
+594	2
+595	4
+597	1
+598	9
+599	2
+600	2
+601	1
+603	5
+605	17
+606	52
+607	2
+608	16
+610	1
+612	6
+613	2
+614	18
+615	6
+616	89
+617	2
+620	3
+621	2
+624	6
+626	8
+627	2
+628	3
+631	4
+633	6
+634	3
+635	26
+637	28
+638	4
+639	21
+640	5
+641	5
+642	2
+643	1
+644	10
+645	2
+646	1
+647	9
+648	1
+649	1
+651	1
+652	1
+653	1
+654	1
+656	1
+659	60
+660	7
+661	1
+662	2
+663	2
+664	8
+665	2
+667	167
+668	3
+669	1
+670	1
+671	1
+672	4
+673	12
+674	9
+675	8
+677	5
+678	17
+679	2
+680	3
+681	7
+682	6
+683	53
+684	13
+685	2
+686	3
+687	11
+688	6
+689	22
+690	1
+691	8
+692	2
+693	19
+695	7
+696	73
+697	8
+698	7
+699	65
+700	10
+701	2
+702	35
+703	1
+704	2
+705	2
+706	1
+707	1
+708	1
+709	12
+710	1
+711	12
+712	15
+713	2
+714	1
+717	5
+718	1
+719	1
+720	6
+721	1
+723	2
+724	3
+725	1
+726	8
+727	1
+729	2
+734	2
+735	3
+736	2
+737	6
+738	35
+739	2
+743	1
+744	5
+745	3
+746	22
+747	4
+748	3
+749	1
+750	12
+751	11
+755	5
+756	1
+760	6
+761	9
+763	22
+765	1
+766	1
+767	4
+768	1
+769	16
+770	6
+771	5
+772	4
+773	9
+774	1
+775	7
+777	15
+780	3
+781	1
+782	1
+783	21
+784	1
+786	1
+788	1
+789	5
+790	3
+792	3
+793	28
+794	7
+797	1
+798	1
+799	1
+800	5
+801	3
+802	1
+806	1
+807	3
+808	1
+809	1
+810	1
+812	5
+814	6
+815	1
+816	4
+817	4
+818	1
+819	3
+820	5
+821	2
+822	1
+825	3
+827	1
+828	16
+830	9
+831	1
+832	1
+833	3
+835	3
+837	1
+838	1
+839	16
+840	1
+842	1
+843	15
+844	2
+845	2
+846	25
+847	4
+849	3
+850	9
+851	5
+852	2
+853	5
+854	5
+855	7
+856	1
+861	1
+862	1
+863	1
+865	8
+866	20
+867	14
+869	30
+870	4
+871	2
+872	9
+877	1
+878	2
+879	1
+881	7
+882	1
+883	1
+884	3
+885	13
+887	2
+888	3
+889	6
+890	1
+892	1
+893	9
+895	8
+896	3
+897	3
+902	1
+905	1
+906	2
+907	4
+909	3
+910	4
+911	6
+912	3
+913	6
+915	1
+917	1
+919	2
+921	38
+923	2
+924	1
+925	1
+928	2
+932	1
+933	1
+935	8
+938	1
+939	1
+940	7
+941	3
+942	2
+943	53
+944	12
+945	15
+947	1
+948	2
+949	1
+951	4
+952	7
+953	2
+954	1
+955	2
+956	3
+957	1
+958	1
+963	25
+964	3
+965	2
+969	29
+970	6
+973	3
+974	1
+975	2
+977	16
+978	20
+979	1
+980	7
+981	1
+985	1
+986	5
+987	11
+988	3
+990	1
+991	45
+992	19
+993	7
+996	3
+997	1
+999	9
+1000	3
+1001	1
+1002	1
+1003	1
+1004	1
+1005	1
+1006	1
+1007	1
+1012	1
+1017	1
+1018	1
+1019	3
+1020	1
+1022	4
+1023	1
+1024	4
+1025	3
+1026	4
+1027	1
+1028	8
+1029	2
+1033	1
+1034	3
+1035	4
+1036	11
+1038	2
+1039	1
+1040	17
+1041	4
+1042	1
+1043	1
+1044	2
+1045	1
+1047	30
+1048	1
+1049	1
+1051	2
+1053	23
+1054	1
+1056	1
+1057	3
+1058	11
+1059	1
+1060	6
+1061	1
+1062	5
+1063	1
+1064	1
+1065	1
+1066	13
+1068	8
+1069	14
+1070	21
+1071	2
+1072	2
+1073	18
+1078	38
+1079	3
+1080	1
+1081	4
+1084	21
+1085	1
+1087	2
+1088	13
+1089	1
+1090	1
+1091	11
+1094	1
+1097	6
+1098	1
+1099	1
+1100	1
+1101	1
+1102	15
+1103	4
+1104	2
+1105	4
+1106	30
+1107	5
+1108	1
+1109	1
+1110	1
+1111	1
+1112	3
+1113	3
+1114	3
+1115	1
+1116	1
+1118	1
+1120	1
+1121	1
+1122	1
+1123	1
+1125	15
+1126	1
+1127	4
+1128	1
+1129	4
+1130	5
+1131	3
+1134	1
+1135	1
+1136	1
+1137	40
+1138	1
+1139	1
+1140	1
+1141	13
+1142	1
+1143	1
+1144	1
+1145	8
+1147	1
+1149	1
+1150	1
+1151	9
+1152	33
+1156	1
+1157	5
+1158	2
+1159	6
+1161	11
+1164	114
+1166	2
+1167	34
+1168	4
+1169	4
+1172	1
+1173	29
+1174	5
+1175	5
+1176	1
+1177	9
+1178	4
+1179	9
+1180	36
+1181	9
+1182	1
+1183	2
+1185	7
+1187	34
+1189	58
+1191	23
+1192	3
+1193	3
+1195	1
+1196	9
+1197	1
+1200	19
+1201	8
+1202	3
+1203	7
+1204	18
+1205	1
+1206	3
+1207	2
+1208	1
+1209	4
+1210	18
+1211	10
+1212	2
+1215	15
+1216	15
+1217	24
+1218	6
+1219	5
+1221	5
+1222	5
+1226	4
+1227	30
+1228	4
+1233	1
+1234	31
+1235	3
+1236	3
+1237	4
+1238	12
+1239	6
+1240	85
+1241	1
+1242	3
+1243	2
+1244	3
+1245	4
+1246	1
+1247	2
+1248	2
+1249	1
+1250	7
+1253	1
+1255	9
+1256	1
+1257	3
+1258	15
+1259	2
+1260	11
+1261	3
+1264	1
+1265	2
+1268	4
+1270	6
+1271	15
+1272	2
+1273	3
+1274	2
+1275	9
+1276	1
+1277	1
+1278	1
+1279	4
+1281	1
+1282	3
+1283	1
+1284	4
+1285	7
+1286	2
+1287	2
+1288	1
+1289	15
+1290	4
+1291	2
+1292	3
+1293	21
+1294	1
+1295	10
+1296	4
+1297	9
+1299	2
+1300	2
+1301	2
+1302	4
+1303	1
+1304	3
+1305	1
+1306	4
+1308	4
+1309	2
+1310	4
+1311	6
+1312	15
+1313	1
+1315	11
+1316	1
+1318	4
+1319	5
+1321	8
+1322	2
+1323	6
+1324	2
+1325	1
+1326	3
+1331	1
+1333	2
+1334	4
+1335	1
+1336	6
+1337	1
+1338	1
+1340	1
+1341	3
+1344	1
+1345	8
+1346	5
+1349	19
+1350	9
+1351	1
+1352	1
+1353	1
+1354	3
+1356	6
+1358	2
+1359	2
+1360	1
+1361	5
+1363	5
+1365	11
+1366	1
+1367	3
+1368	10
+1369	1
+1370	2
+1371	1
+1372	12
+1373	2
+1374	1
+1375	4
+1376	2
+1377	5
+1378	5
+1379	15
+1380	1
+1381	7
+1382	2
+1383	2
+1384	1
+1385	6
+1386	1
+1387	6
+1388	1
+1389	8
+1390	2
+1391	2
+1392	5
+1396	2
+1397	3
+1398	3
+1399	35
+1400	5
+1401	6
+1402	4
+1403	2
+1404	14
+1405	9
+1406	1
+1407	11
+1408	7
+1409	1
+1410	1
+1411	7
+1412	1
+1413	9
+1418	4
+1419	3
+1420	1
+1421	1
+1422	4
+1423	2
+1424	4
+1426	7
+1427	1
+1428	20
+1429	3
+1431	7
+1435	1
+1436	2
+1439	6
+1440	10
+1441	1
+1442	1
+1443	3
+1444	2
+1445	5
+1446	1
+1447	6
+1448	1
+1449	2
+1450	2
+1453	1
+1454	6
+1455	3
+1456	5
+1457	1
+1458	2
+1459	2
+1460	1
+1461	1
+1462	9
+1463	8
+1464	1
+1465	2
+1466	1
+1468	10
+1471	7
+1472	1
+1473	2
+1474	1
+1475	6
+1476	2
+1477	2
+1478	1
+1480	29
+1481	6
+1482	2
+1483	22
+1484	2
+1485	4
+1486	38
+1487	11
+1490	2
+1492	3
+1493	1
+1494	8
+1495	1
+1496	18
+1497	1
+1498	8
+1499	2
+1500	1
+1501	2
+1505	23
+1507	24
+1509	10
+1510	1
+1511	2
+1512	7
+1513	6
+1514	5
+1515	3
+1516	2
+1517	11
+1518	6
+1519	1
+1520	13
+1521	6
+1524	3
+1525	1
+1526	1
+1528	7
+1529	5
+1530	4
+1531	2
+1532	1
+1533	11
+1534	2
+1535	3
+1536	10
+1537	2
+1538	1
+1539	1
+1540	2
+1541	1
+1542	17
+1543	7
+1545	7
+1546	1
+1547	1
+1548	1
+1549	1
+1550	1
+1551	1
+1552	1
+1553	2
+1554	1
+1555	4
+1556	7
+1557	2
+1558	4
+1559	1
+1560	7
+1561	1
+1562	6
+1563	4
+1565	1
+1566	5
+1567	3
+1568	1
+1571	1
+1572	1
+1573	2
+1574	7
+1575	2
+1576	8
+1577	21
+1578	4
+1579	2
+1580	1
+1581	1
+1582	1
+1583	6
+1585	1
+1587	5
+1589	1
+1590	7
+1591	3
+1593	7
+1594	1
+1595	2
+1596	1
+1597	1
+1599	7
+1601	1
+1602	18
+1603	4
+1604	4
+1605	3
+1606	1
+1607	1
+1608	1
+1609	1
+1610	9
+1612	7
+1613	3
+1614	5
+1615	6
+1616	10
+1617	3
+1618	1
+1619	1
+1620	1
+1621	6
+1622	5
+1623	1
+1625	2
+1626	18
+1627	11
+1628	2
+1629	1
+1630	15
+1631	1
+1632	1
+1633	1
+1634	2
+1636	2
+1637	4
+1638	5
+1639	3
+1641	1
+1642	8
+1643	3
+1644	7
+1645	4
+1647	2
+1648	2
+1649	3
+1650	6
+1651	1
+1652	6
+1653	1
+1654	2
+1655	4
+1656	1
+1657	3
+1658	2
+1659	3
+1660	1
+1661	4
+1662	2
+1663	6
+1664	1
+1665	4
+1666	1
+1667	1
+1669	3
+1670	2
+1671	6
+1673	3
+1674	3
+1675	5
+1677	1
+1678	1
+1679	5
+1681	2
+1682	12
+1683	13
+1684	1
+1685	2
+1686	1
+1687	2
+1688	1
+1689	1
+1690	6
+1691	1
+1692	1
+1693	1
+1697	1
+1698	1
+1699	2
+1700	3
+1701	9
+1702	2
+1703	4
+1704	1
+1705	2
+1706	4
+1708	2
+1709	2
+1710	2
+1711	3
+1712	2
+1713	3
+1714	1
+1715	7
+1719	1
+1721	1
+1722	3
+1727	3
+1728	3
+1729	1
+1730	1
+1731	1
+1732	5
+1733	4
+1734	2
+1735	6
+1736	1
+1737	1
+1739	23
+1740	1
+1741	2
+1742	2
+1743	4
+1744	3
+1745	8
+1746	6
+1747	6
+1748	1
+1749	1
+1750	1
+1751	5
+1752	3
+1753	7
+1754	1
+1755	2
+1756	4
+1758	11
+1759	1
+1760	3
+1761	1
+1762	3
+1763	3
+1764	1
+1765	5
+1766	2
+1767	1
+1768	1
+1769	3
+1770	1
+1771	4
+1773	2
+1774	5
+1775	4
+1776	1
+1777	1
+1778	4
+1779	2
+1780	2
+1781	1
+1782	1
+1784	6
+1785	1
+1786	1
+1788	2
+1789	5
+1790	24
+1792	2
+1793	1
+1794	1
+1795	4
+1796	1
+1798	2
+1799	1
+1801	4
+1802	3
+1803	1
+1804	4
+1805	2
+1806	18
+1807	4
+1808	9
+1809	3
+1810	5
+1811	3
+1812	8
+1813	7
+1814	4
+1815	2
+1816	19
+1817	1
+1818	2
+1819	6
+1820	1
+1821	1
+1822	3
+1823	8
+1824	1
+1825	1
+1826	1
+1828	1
+1829	4
+1830	2
+1831	1
+1832	1
+1833	7
+1834	25
+1835	3
+1836	3
+1837	1
+1838	4
+1839	1
+1840	5
+1841	2
+1842	2
+1843	2
+1844	2
+1845	8
+1846	12
+1847	1
+1848	5
+1849	1
+1850	1
+1851	4
+1852	3
+1853	1
+1855	4
+1860	1
+1861	11
+1862	2
+1863	2
+1864	13
+1865	1
+1866	1
+1867	1
+1868	1
+1869	2
+1870	1
+1871	2
+1874	2
+1875	1
+1876	1
+1877	1
+1878	1
+1880	4
+1881	7
+1882	5
+1883	9
+1884	2
+1885	3
+1886	1
+1887	5
+1888	1
+1889	2
+1890	1
+1891	1
+1892	8
+1893	2
+1894	2
+1895	1
+1896	2
+1897	1
+1898	1
+1899	1
+1900	1
+1901	1
+1902	1
+1903	4
+1904	2
+1905	1
+1906	3
+1910	1
+1912	3
+1913	7
+1914	1
+1915	2
+1916	1
+1917	2
+1918	1
+1919	1
+1920	1
+1921	1
+1922	2
+1924	7
+1925	1
+1926	3
+1927	4
+1928	1
+1929	1
+1930	2
+1931	2
+1932	2
+1933	1
+1934	5
+1935	7
+1936	5
+1937	7
+1938	2
+1939	3
+1940	2
+1942	3
+1943	3
+1944	3
+1945	2
+1946	1
+1947	1
+1948	1
+1949	1
+1950	2
+1951	1
+1952	3
+1953	1
+1954	1
+1955	1
+1956	5
+1957	1
+1958	1
+1959	3
+1960	3
+1961	1
+1962	4
+1963	1
+1964	1
+1965	7
+1966	1
+1967	4
+1969	2
+1970	3
+1971	4
+1972	1
+1973	2
+1974	1
+1975	1
+1976	2
+1977	1
+1978	3
+1979	3
+1980	1
+1983	2
+1984	8
+1985	6
+1986	1
+1987	20
+1988	3
+1989	1
+1990	1
+1991	3
+1992	3
+1993	1
+1995	2
+1996	1
+1997	1
+1998	2
+1999	8
+2000	1
+2001	8
+2002	1
+2003	1
+2004	1
+2006	2
+2007	1
+2008	1
+2009	2
+2010	6
+2011	2
+2012	1
+2013	1
+2014	1
+2016	1
+2017	1
+2018	2
+2019	1
+2020	2
+2021	1
+2022	1
+2023	2
+2024	9
+2025	3
+2027	2
+2028	3
+2029	1
+2030	8
+2031	4
+2032	2
+2033	9
+2034	4
+2035	2
+2036	2
+2037	1
+2038	3
+2039	1
+2040	1
+2042	4
+2043	2
+2044	1
+2045	5
+2046	4
+2047	2
+2048	1
+2049	1
+2050	1
+2051	1
+2052	2
+2054	1
+2055	3
+2056	1
+2057	4
+2058	1
+2059	4
+2060	3
+2061	3
+2063	2
+2064	1
+2066	10
+2067	1
+2068	7
+2069	1
+2070	4
+2071	4
+2072	1
+2073	2
+2074	4
+2075	1
+2076	2
+2078	12
+2079	4
+2080	1
+2081	4
+2082	6
+2083	1
+2084	1
+2085	1
+2086	4
+2090	1
+2092	1
+2093	7
+2094	4
+2095	2
+2096	3
+2097	1
+2098	8
+2099	3
+2100	1
+2101	4
+2102	5
+2103	1
+2104	2
+2107	1
+2108	1
+2110	2
+2112	1
+2114	3
+2118	3
+2119	2
+2120	2
+2125	2
+2126	4
+2127	1
+2128	2
+2129	2
+2130	3
+2131	2
+2132	4
+2133	1
+2134	2
+2135	2
+2136	2
+2137	2
+2138	4
+2139	2
+2141	3
+2142	4
+2143	2
+2144	4
+2145	2
+2146	2
+2149	2
+2150	1
+2151	1
+2152	1
+2155	2
+2157	1
+2158	1
+2159	2
+2161	1
+2162	2
+2163	2
+2164	4
+2165	2
+2166	1
+2167	2
+2168	2
+2169	1
+2170	5
+2171	2
+2172	1
+2173	3
+2174	1
+2175	1
+2176	2
+2177	1
+2178	1
+2180	6
+2181	3
+2182	1
+2183	1
+2184	10
+2185	3
+2186	1
+2187	1
+2188	1
+2189	1
+2190	2
+2191	4
+2192	1
+2193	3
+2194	1
+2195	4
+2196	2
+2198	2
+2200	1
+2201	3
+2202	16
+2203	1
+2204	14
+2205	2
+2206	1
+2207	1
+2208	1
+2209	1
+2210	2
+2211	1
+2212	3
+2213	4
+2214	1
+2215	2
+2216	3
+2217	1
+2218	1
+2219	1
+2220	1
+2221	1
+2222	1
+2223	1
+2224	1
+2225	1
+2226	5
+2227	1
+2228	3
+2229	1
+2230	2
+2231	3
+2232	1
+2233	2
+2234	4
+2235	1
+2236	3
+2237	1
+2238	2
+2239	3
+2240	1
+2241	2
+2242	1
+2243	1
+2244	2
+2245	2
+2246	1
+2247	2
+2249	1
+2250	2
+2251	4
+2252	7
+2253	2
+2254	3
+2255	1
+2256	7
+2257	1
+2260	1
+2262	3
+2263	2
+2264	2
+2265	1
+2266	3
+2269	2
+2270	6
+2271	1
+2272	1
+2273	2
+2274	7
+2275	1
+2276	2
+2277	1
+2278	1
+2280	1
+2281	4
+2282	6
+2283	2
+2284	1
+2285	4
+2286	2
+2287	2
+2288	1
+2289	6
+2290	2
+2291	1
+2292	1
+2293	1
+2294	4
+2295	1
+2296	2
+2297	1
+2298	2
+2299	1
+2304	2
+2305	1
+2306	4
+2307	4
+2308	5
+2309	1
+2310	1
+2311	9
+2312	3
+2313	1
+2314	1
+2316	1
+2317	1
+2318	2
+2319	2
+2320	1
+2321	1
+2322	2
+2323	2
+2324	2
+2325	2
+2326	1
+2327	1
+2328	3
+2330	11
+2331	5
+2332	1
+2334	2
+2335	1
+2336	1
+2337	1
+2338	1
+2339	1
+2340	1
+2341	9
+2342	3
+2343	2
+2344	2
+2345	1
+2346	3
+2348	1
+2349	2
+2351	2
+2352	1
+2353	2
+2354	2
+2355	1
+2356	1
+2357	2
+2358	1
+2359	1
+2360	2
+2361	3
+2364	1
+2365	1
+2366	1
+2367	1
+2368	1
+2370	8
+2372	4
+2374	4
+2376	6
+2378	9
+2380	3
+2381	2
+2382	3
+2383	2
+2384	1
+2385	1
+2386	1
+2390	1
+2392	4
+2393	1
+2394	3
+2395	1
+2396	1
+2397	1
+2398	3
+2399	2
+2400	1
+2401	1
+2402	6
+2403	1
+2404	2
+2405	2
+2406	2
+2407	1
+2408	1
+2409	3
+2410	1
+2411	2
+2412	3
+2415	1
+2416	2
+2417	1
+2418	1
+2419	2
+2420	2
+2421	2
+2422	1
+2423	1
+2424	1
+2425	1
+2426	1
+2427	1
+2428	1
+2429	1
+2430	1
+2431	1
+2432	1
+2433	1
+2434	2
+2435	1
+2436	1
+2437	1
+2438	1
+2439	1
+2440	1
+2441	1
+2442	1
+2443	1
+2444	2
+2446	2
+2447	5
+2448	1
+2449	2
+2450	1
+2451	1
+2452	1
+2453	1
+2454	1
+2455	4
+2456	1
+2457	2
+2458	2
+2459	3
+2461	1
+2462	1
+2463	4
+2464	1
+2465	2
+2466	1
+2467	1
+2468	2
+2469	4
+2470	1
+2471	2
+2472	1
+2473	1
+2474	1
+2475	1
+2477	2
+2479	1
+2480	1
+2481	4
+2482	1
+2483	2
+2484	1
+2485	2
+2486	2
+2487	1
+2488	3
+2489	1
+2490	1
+2491	2
+2492	1
+2493	1
+2494	2
+2495	4
+2496	3
+2497	1
+2498	2
+2499	1
+2500	1
+2501	3
+2502	1
+2503	1
+2504	1
+2505	1
+2506	1
+2507	1
+2508	1
+2509	2
+2510	1
+2511	1
+2512	2
+2513	3
+2514	1
+2516	2
+2517	1
+2518	1
+2519	2
+2520	1
+2521	1
+2522	2
+2523	1
+2524	1
+2525	1
+2526	4
+2527	1
+2528	1
+2529	2
+2530	1
+2531	2
+2532	1
+2533	2
+2534	1
+2535	3
+2538	2
+2539	2
+2540	1
+2541	2
+2542	1
+2543	1
+2544	1
+2545	3
+2546	1
+2547	1
+2548	1
+2549	1
+2550	1
+2551	1
+2552	1
+2553	2
+2554	1
+2555	1
+2556	3
+2557	4
+2558	1
+2559	1
+2560	1
+2561	1
+2562	1
+2563	1
+2564	1
+2565	3
+2566	1
+2567	2
+2568	3
+2569	1
+2570	2
+2571	1
+2572	1
+2573	2
+2574	1
+2575	2
+2576	1
+2577	1
+2578	1
+2579	1
+2580	3
+2581	1
+2582	2
+2583	1
+2584	2
+2585	2
+2586	2
+2587	1
+2588	1
+2589	1
+2590	1
+2591	3
+2592	2
+2593	2
+2594	1
+2595	1
+2596	1
+2597	1
+2598	1
+2599	1
+2600	2
+2601	1
+2602	2
+2603	1
+2604	2
+2605	2
+2606	3
+2607	2
+2608	2
+2609	6
+2610	2
+2611	1
+2614	3
+2615	1
+2616	1
+2617	1
+2618	1
+2619	1
+2624	2
+2626	1
+2628	2
+2629	1
+2630	1
+2631	1
+2632	1
+2633	1
+2634	1
+2635	1
+2636	3
+2637	7
+2638	2
+2642	1
+2643	1
+2644	1
+2645	1
+2646	1
+2647	1
+2648	1
+2649	2
+2650	1
+2651	2
+2652	1
+2653	1
+2654	1
+2655	2
+2656	1
+2657	1
+2658	2
+2659	1
+2660	3
+2661	4
+2662	1
+2663	1
+2664	2
+2665	1
+2666	3
+2667	1
+2668	1
+2669	4
+2670	1
+2671	2
+2672	2
+2673	1
+2674	1
+2675	1
+2676	2
+2677	1
+2678	2
+2679	2
+2680	1
+2681	1
+2682	1
+2683	1
+2684	1
+2685	1
+2686	1
+2687	2
+2688	1
+2689	1
+2690	4
+2691	2
+2692	1
+2693	1
+2695	1
+2696	3
+2697	3
+2698	3
+2699	3
+2700	4
+2701	2
+2702	1
+2703	1
+2704	1
+2705	1
+2706	1
+2707	1
+2708	2
+2709	2
+2710	1
+2711	1
+2712	1
+2713	2
+2714	2
+2715	2
+2716	1
+2717	2
+2718	1
+2719	3
+2720	1
+2721	1
+2722	1
+2723	1
+2724	1
+2725	1
+2726	1
+2727	1
+2728	1
+2729	2
+2730	2
+2731	1
+2732	1
+2733	1
+2736	1
+2737	1
+2738	1
+2739	1
+2740	1
+2741	1
+2742	1
+2743	2
+2744	2
+2745	2
+2746	1
+2747	1
+2748	2
+2749	1
+2750	1
+2751	2
+2752	1
+2753	1
+2755	1
+2756	1
+2758	1
+2759	1
+2760	1
+2761	1
+2762	1
+2763	1
+2764	1
+2765	1
+2766	2
+2767	1
+2768	3
+2769	1
+2770	1
+2771	1
+2772	3
+2773	1
+2775	1
+2776	1
+2777	1
+2778	1
+2779	1
+2780	1
+2781	1
+2782	1
+2783	3
+2784	1
+2785	2
+2786	2
+2787	1
+2788	1
+2791	1
+2792	1
+2793	1
+2797	1
+2798	1
+2801	1
+2802	2
+2803	1
+2804	1
+2806	1
+2807	1
+2808	3
+2809	1
+2810	2
+2811	1
+2812	1
+2813	1
+2814	1
+2815	1
+2816	1
+2817	1
+2818	1
+2819	1
+2821	1
+2823	1
+2824	3
+2825	1
+2826	1
+2827	1
+2828	1
+2829	2
+2830	2
+2831	1
+2832	1
+2833	1
+2834	1
+2835	1
+2836	1
+2837	1
+2838	1
+2839	2
+2840	1
+2841	1
+2842	1
+2843	1
+2844	1
+2845	1
+2846	1
+2847	1
+2848	1
+2849	1
+2850	1
+2851	1
+2852	1
+2853	1
+2854	1
+2855	1
+2856	1
+2857	1
+2858	3
+2859	1
+2860	1
+2861	1
+2862	1
+2863	1
+2864	1
+2865	1
+2866	1
+2867	1
+2868	2
+2869	1
+2870	2
+2871	1
+2872	1
+2873	1
+2874	1
+2875	1
+2876	2
+2877	1
+2878	1
+2879	2
+2880	1
+2881	1
+2882	1
+2883	1
+2885	1
+2886	1
+2887	1
+2888	2
+2889	1
+2890	1
+2891	1
+2892	1
+2893	1
+2894	2
+2895	1
+2896	1
+2897	1
+2898	1
+2899	1
+2900	1
+2901	2
+2902	1
+2903	1
+2904	1
+2905	1
+2906	1
+2907	2
+2908	1
+2909	1
+2910	1
+2911	1
+2912	1
+2915	1
+2916	1
+2917	1
+2918	1
+2919	1
+2920	1
+2921	1
+2922	4
+2923	1
+2924	1
+2925	1
+2926	1
+2927	3
+2928	1
+2929	1
+2930	1
+2931	1
+2932	1
+2933	1
+2934	1
+2938	1
+2939	1
+2940	1
+2941	1
+2942	1
+2943	1
+2944	1
+2945	1
+2946	1
+2947	1
+2948	1
+2949	1
+2950	2
+2951	1
+2952	1
+2953	1
+2954	1
+2955	1
+2956	1
+2957	2
+2958	1
+2961	2
+2962	1
+2963	2
+2964	1
+2965	1
+2966	1
+2967	1
+2968	1
+2969	1
+2970	1
+2971	1
+2972	1
+2973	1
+2974	1
+2975	1
+2976	1
+2977	2
+2978	1
+2979	1
+2980	1
+2981	1
+2982	1
+2983	1
+2984	1
+2985	1
+2986	1
+2987	1
+2988	1
+2989	1
+2990	1
+2991	1
+2992	1
+2993	1
+2994	1
+2995	1
+2996	1
+2997	1
+2999	1
+3000	1
+3001	1
+3002	1
+3003	1
+3004	1
+3006	1
+3007	1
+3008	1
+3009	1
+3010	2
+3011	1
+3012	1
+3015	1
+3018	1
+3019	1
+3020	1
+3021	1
+3023	1
+3024	2
+3025	1
+3026	1
+3027	1
+3028	1
+3029	1
+3030	1
+3031	1
+3032	2
+3033	1
+3034	1
+3035	2
+3036	1
+3038	2
+3041	1
+3042	3
+3043	1
+3044	1
+3045	1
+3046	1
+3047	1
+3048	1
+3049	1
+3050	4
+3051	1
+3052	1
+3053	1
+3054	1
+3056	1
+3057	2
+3058	1
+3059	1
+3060	1
+3063	1
+3064	1
+3065	3
+3066	1
+3067	1
+3069	1
+3070	1
+3071	1
+3072	1
+3073	4
+3074	1
+3076	1
+3077	2
+3078	1
+3079	1
+3080	1
+3081	1
+3082	1
+3083	2
+3084	2
+3085	2
+3086	1
+3087	4
+3088	1
+3089	1
+3090	1
+3091	1
+3092	1
+3093	1
+3094	1
+3095	2
+3096	1
+3097	1
+3098	1
+3099	1
+3100	1
+3101	1
+3102	1
+3103	1
+3104	1
+3105	1
+3106	1
+3107	1
+3108	1
+3109	1
+3110	2
+3111	2
+3112	1
+3113	1
+3114	1
+3115	1
+3116	1
+3117	1
+3118	1
+3119	1
+3120	1
+3121	1
+3122	2
+3123	1
+3124	1
+3125	2
+3126	1
+3127	1
+3128	1
+3129	1
+3130	1
+3131	1
+3132	1
+3133	1
+3134	2
+3135	1
+3136	1
+3137	1
+3138	1
+3139	1
+3140	1
+3141	1
+3142	1
+3143	1
+3144	1
+3145	1
+3146	1
+3147	1
+3148	1
+3149	1
+3150	1
+3151	1
+3152	1
+3153	2
+3154	1
+3155	1
+3156	1
+3157	1
+3158	1
+3159	1
+
