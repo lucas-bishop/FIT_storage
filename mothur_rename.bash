@@ -1,0 +1,1 @@
+for file in data/mothur/raw/*.gz; do mv "$file" `echo $file | tr '-' '_'` ; done
