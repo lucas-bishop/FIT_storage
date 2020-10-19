@@ -1,0 +1,1 @@
+for file in $(cat ~FIT_p7p8_samples.txt); do mv "$file" /nfs/turbo/schloss-lab/lucas/FIT_storage/p7p8_data/; done
